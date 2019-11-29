@@ -1,0 +1,2 @@
+- `raw` the master copy of data, giving sources
+- `processed` data is transformed into a format suitable for analysis
