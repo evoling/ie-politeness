@@ -1,1 +1,1 @@
-# ie-politeness
+# Indo-European politeness
