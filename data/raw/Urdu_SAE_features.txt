@@ -1,0 +1,43 @@
+Urdu
+====
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence or mention of articles in Urdu in the sources consulted. 
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Like Hindi, Urdu can form relative clauses either with a relative pronoun only, or a combination of a relative and correlative pronoun. (Beg, 1988: 161-163).
+
+3. 'Have' perfect
+-----------------
+Perfective, or past, tenses have the structure perfective participle + be auxiliary, where the former marks aspect. (Schmidt, 2003: 326).
+
+4. Participial passive
+----------------------
+"There is no morphologically marked passive. A periphrastic passive construction is derived by adding an inflected form of *jānā ['to go'] to the perfective participle of the main verb. The instrument of the action is not usually specified [...]." (Schmidt, 2003: 331).
+
+5. Dative external possessors
+-----------------------------
+Not clear from the sources consulted whether DEPs exist in Urdu or not. However, Haspelmath (2001: 1498) states that the eastern Indo-European languages do not have external posesssors at all, thus it is unlikely that Urdu does possess them. 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"*kuch* 'some(thing)', 'any(thing)' is used as a pronoun and an adjective. As a pronoun, it means 'something'. If there is a negative word in the sentence, it means 'nothing', 'not anything'." (Schmidt, 1999: 29). 
+
+7. Relative-based equative constructions
+----------------------------------------
+No evidence for their presence or absence was found in the sources consulted. However, Haspelmath (2001: 1500) states that [i]mpressionistically, relative-based equative constructions seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." It is quite possible, therefore, that they do not exist in Urdu either.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"[...] in Modern Urdu finite verbs with person-number suffixes are found only in the present and subjunctive forms of the auxiliary verb, and in the subjunctive mood of other verbs. The participial suffixes which have replaced them show agreement in gender and number, like adjectives." (Schmidt, 2003: 323). Only intransitive verbs agree with the subject, which is in the nominative case, in perfective tenses. (Schmidt, 2003: 327).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+The most important emphatic form in Urdu is *hi* 'itself, only, very' which can be combined with pronouns and adverbs to form an inclusive emphatic form, or can co-occur with nouns, pronouns, adjectives, adverbs or postpositions independently. (Beg, 1988: 222-223). Additionally, the reflexive pronoun *apna* can be used after possessives for emphasis. (Schmidt, 1999:25).
+
+Sources:
+- Schmidt, Ruth Laila. 2003. Urdu. In: George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge. 
+- Beg, M. K. A. 1988. Urdu Grammar: History and Structure, New Delhi: Bahri Publications.
+- Schmidt, Ruth Laila. 1999. Urdu: An Essential Grammar, London: Routledge.

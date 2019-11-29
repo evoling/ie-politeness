@@ -1,0 +1,41 @@
+Latvian
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+Definiteness and indefiniteness are expressed through nominal suffixes, but not separate preposed articles in the SAE sense (Nau, 1998: 13).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+All arguments can be relativised, as can adnominal genitive NPs. The antecedent is an NP or pronoun. The relative pronouns (*kas* 'who, what', *kurš* 'which (one)', *kāds* 'of what kind; some, someone') and *kur* 'where' (a relative advber) are used to introduce relative clauses. (Nau, 1998: 60).
+
+3. 'Have' perfect
+-----------------
+The periphrastic tense forms (including the present perfect) consist of an inflected form of the auxiliary *būt* 'to be' and the past active participle of the main verb. (Nau, 1998: 32). The present perfect often has a resultative meaning, and is the most common of the periphrastic tenses. (Nau, 1998: 33).
+
+4. Participial passive
+----------------------
+"Latvian has a typical European passive of the type <auxiliary + past passive participle>." (Nau, 1998: 37).
+
+5. Dative external possessors
+-----------------------------
+"While in the existence as well as the location type the nominative NP is the only candidate for a subject, in possession clauses both the nominative (the possessed) and the dative argument (the possessor) show subject properties, [...]." (Nau, 1998: 52).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"Pronouns and adverbs within the scope of negation are negated as well as the verb [...]." (Nau, 1998: 58).
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1499-1500) states that Baltic languages possess relative-based equative constructions, although no evidence or examples of them were found in the source consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"In Latvian, no argument is grammatically indispensible, if it is recoverable from the context." (Nau, 1998: 55). 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Superlative meaning can be expressed by *pats* 'self, same'. (Lau, 1998: 14). It can follow a noun or pronoun, or replace it anaphorically, with the meaning 'self' (i.e. with emphatic function). (Lau, 1998: 19).
+
+Source:
+- Nau, Nicole. 1998. Latvian, Munich: Lincom Europa.

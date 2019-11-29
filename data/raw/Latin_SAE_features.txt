@@ -1,0 +1,42 @@
+Latin
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+"In regard to internal syntax, perhaps the most salient difference between Latin and Romance is the absence in Latin of articles, both definite amd indefinite" (Vincent, 1988: 52-53).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"[...] all the Romance languages have a system of relative pronouns which continues the Latin QUI series, and the standard languages at least continue the strategy of not marking the positino of a relativised item by a resumptive pronoun" (Vincent, 1988: 55). 
+
+3. 'Have' perfect
+-----------------
+All tenses were expressed synthetically in Latin although the present perfect CANTAVIT-type "came increasingly to be expressed =through the grammaticalisation of the periphrasis HABET CANTATUM (> Fr. *a chanté*, It. *ha cantato*, etc.)" (Vincent, 1988: 56).
+
+4. Participial passive
+----------------------
+"[...] in Latin the passive was principally an inflectional category; it is only in the perfective that the periphrasis CANTATUM EST 'it has been sung' makes an appearance." (Vincent, 1988: 58).
+
+5. Dative external possessors
+-----------------------------
+
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The Latin distaste for negative attraction - by which a negative element sparks off a string of agreeing neagtives - is reflected in the attitudes of most grammarians of western vernaculars" (Posner, 1996: 148). This quote seems to suggest that Latin possessed but one negative item per clause.
+
+7. Relative-based equative constructions
+----------------------------------------
+
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+For example, "non-reflexive third person pronouns were frequently left unexpressed both as subject and object" (Vincent, 1988: 42).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+
+
+Sources: 
+- Vincent, Nigel. 1988. Latin. In: Martin Harris & Nigel Vincent (eds.), 'The Romance Languages', London: Routledge.
+- Posner, Rebecca. 1996. The Romance Languages, Cambridge: Cambridge University Press.

@@ -1,0 +1,42 @@
+Singhalese
+==========
+
+1. Definite and indefinite articles
+-----------------------------------
+Singular nouns only inflect for definiteness, but there are no articles. (Gair, 2003: 780).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Relative clauses always precede the head noun. The verb of the clause is marked with one of the three relativizing (verbal adjective) affixes: present, past or perfect. [...] all major constituents in the clause are eligible for relativization." (Gair, 2003: 808).
+
+3. 'Have' perfect
+-----------------
+"Perfective aspect is often indicated by means of the perfect participle accompanied by the auxiliary *tienəwa* 'be'." (Chandralal, 2010: 145).
+
+4. Participial passive
+----------------------
+Sinhala does not possess a passive construction (Chandralal, 2010: 152).
+
+5. Dative external possessors
+-----------------------------
+Not clear from the sources consulted whether DEPs exist in Singhalese or not. However, Haspelmath (2001: 1498) states that the eastern Indo-European languages do not have external posesssors at all, thus it is unlikely that Singhalese does possess them. 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Not clear from the sources consulted what the preferred negation strategy is. However, Haspelmath (2001: 1498-1499) states that the eastern Indo-European languages (Indic and Iranian) possess the NV+NI type structure, which is different to the canonical SAE type.
+
+7. Relative-based equative constructions
+----------------------------------------
+"'As (much as)' may be expressed with *taraŋ*. The standard precedes, but is in the case parallel to the one compared [...]." (Gair, 2003: 803).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Very commonly, second person pronouns are left unexpressed [...]." (Gair, 2003: 782).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No evidence for or against a differentiation, although Haspelmath (2001: 1501) claims that "eastern Indo-European languages have the same expressions for intensifiers and reflexives", thus it is likely that there is no difference in Singhalese. The reflexive pronoun in Singhalese is *taman/tamun*. (Gair, 2003:783).
+
+Sources:
+- Gair, James W. 2003. Sinhala. In: George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge. 
+- Chandralal, Dileep. 2010. Sinhala, Amsterdam: John Benjamins.

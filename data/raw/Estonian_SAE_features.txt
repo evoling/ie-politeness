@@ -1,0 +1,41 @@
+Estonian
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of articles in Estonian in the source consulted.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Estonian has the interrogative/relative pronouns *'kes* 'who', and *'mis* 'what', both of which are usually inflected in the singular; they are inflecetd in the plural for special emphasis." (Viitso, 1998: 134).
+	
+3. 'Have' perfect
+-----------------
+"All compound tenses [including the perfect] contain a finite form of the auixiliary verb *'olla* 'to be' and a personal or an impersonal past participle." (Viitso, 1998: 137).
+
+4. Participial passive
+----------------------
+There is no evidence of a passive voice in Estonian in the source consulted.
+
+5. Dative external possessors
+-----------------------------
+Not mentioned in the source consulted, however Haspelmath (2001: 1498) states that "North Germanic and Balto-Finnic languages have locative external possessors, i.e. they are somewhat peripheral SAE languages with respect to this feature."
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The pronouns *'keegi* 'somebody; nobody', *'miski* 'something; nothing', *'mingi* 'a, some; no' and *'kumbki* 'either; neither (of two)' *'ükski* 'at least one; none' are indefinite in affirmative sentence and either indefinite or negative in negative sentences." (Viitso, 1998: 135).
+
+7. Relative-based equative constructions
+----------------------------------------
+No evidence for their presence or absence was found in the source consulted, but Haspelmath (2001: 1500) suggests that they do not exist in Estonian.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Subject pronouns and nouns can be omitted when the finite form has a personal ending. There are no person or number suffixes in the quotative and jussive moods." (Viitso, 1998: 136).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+The reflexive pronoun is (in the nominative) *'ise*, both for singular and plural. (Viitso, 1998: 133). It is not clear what is used as an intensifier, but Haspelmath (2001: 1501) states that it is the reflexive pronoun.
+
+Sources:
+- Viitso, Tiit-Rein. 1998. Estonian. In: Daniel Abondolo (ed.), 'The Uralic Languages', London: Routledge.

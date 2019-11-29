@@ -1,0 +1,42 @@
+Friulian
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+One common inherited paradigm for definite articles exists across Rhaeto-Romance, comprising four contrasting forms (masc sg, fem sg, masc pl, fem pl) (Haiman & Benincà, 1992: 120). The indefinite article and numeral 'one' are identical syntactically except in the Badiot and Gardena (and perhaps pther) dialects of Ladin, where the two are distinguished although the indefinite article remains a phonologically degenerate form of the numeral (Haiman & Benincà, 1992: 152).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+In Friulian, it sseems that the relative pronoun (like all subject NPs) *co-occurs with* subject pronoun markers [...], but (like all object NPs) *replaces* object pronoun markers [...]." (Haiman & Benincà, 1992: 168).
+
+3. 'Have' perfect
+-----------------
+"As in other Romance languages, the perfect axiliary is either 'have' or 'be' [...]. Like popular and regional French, and conservative northern Italian dialects, Friulian has a complete paradigm of doubly marked perfects with two perfective auxiliaries, of which the second appears in the present participial form: [...]." (Haiman & Benincà, 1992: 108-109).
+
+4. Participial passive
+----------------------
+In Friulian also, as in the Engadine dialects (and Venetian, and standard Italian), the choice of passive auxiliary is determined by whether the auxiliary is itself in the perfect-participial form. In the simple passive, the auxiliary is 'come', (or, subject to semantic constraints, 'go'), while in compound forms, it is 'be' (Iliescu 1982: 203; Benincà and Vanelli 1985: 178-197)." (Haiman & Benincà, 1992: 108). 
+
+5. Dative external possessors
+-----------------------------
+Not clear from any of the sources below.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+It appears that negative pronouns co-occur with verbal negation, based on the following example: no si a nie per nie 'you can't get anything for nothing' (Haiman, 1988: 386).
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from any of the sources below.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"In the Italian Rhaeto-Romance dialects, as in Italian [...]. full personal pronoun subjects are omitted unless they are in focus. Clitic pronoun subjects are frequently present [...]" (Haiman, 1988: 385).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Not clear from the sources below.
+
+Source:
+- Haiman, John and Paola Benincà. 1992. The Rhaeto-Romance Languages, London: Routledge.
+- Haiman, John. 1988. Rhaeto-Romance, in Martin Harris & Nigel Vincent, "The Romance Languages", London: Routledge.

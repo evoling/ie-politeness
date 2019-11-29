@@ -1,0 +1,41 @@
+Oriya
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+Suffixes are used to make a singular or non-count noun definite. "In certain contexts, a singular noun or an uncount noun can also express definiteness even without a suffix [...]. For making plural nouns definite, usually a demonstrative pronoun is used [...]. The words or suffixes usually used for making a sungular noun indefinite are *jɔnə* 'one person'. *gote* 'one', *-te, -tie* and *-jane* is [sic] used with only human nouns; others are normally used with non-human nouns but they can also be used with human nouns." (Ray, 2003: 456-457).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Relative clauses commonly used in Oriya are of the relative-correlative type. *jie*, *jeũmane*, *jeũta*, *jeũgudika*, etc. are usually used as the relative pronouns. [...] Like personal pronouns, they also have different case forms. *jeũ* is used as the modifier for the noun to be relativized. The relative cluase [...] usually precedes the main clause [...]. The relative clause, however, does not always precede the main clause [...]." (Ray, 2003: 469-470).
+
+3. 'Have' perfect
+-----------------
+Tense and aspect are marked by verbal suffixes. (Ray, 2003: 458). Compound verb structures do exist, however, although not with auxiliaries, but rather suffixes indicating past time. (Ray, 2003: 464).
+
+4. Participial passive
+----------------------
+"The passive verb in Oriya is formed with the passive participal and the passive auxiliary *-he-* 'to happen' or *-ja-* 'to go'. The passive participle is usually formed by adding the suffix *-a* to the verb root, or to a form derived from the verb root [...]." (Ray, 2003: 467). The auxiliary is a suffix, however, so the form is somewhat different to the canonical SAE participial passive. Furthermore, the formal passive has low acceptability in Oriya, with speakers preferring an impersonal passive form.
+
+5. Dative external possessors
+-----------------------------
+Unclear from the source consulted, but it is likely that Oriya does not have DEPs (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+It is not clear from the source consulted whether Oriya lacks or possesses verbal negation. It is highly likely, however, that Oriya is of the type NI+NV since this is the type widely found in the eastern I-E languages (Indic and Iranian). (Haspelmath, 2001: 1498-1499).
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from the sources consulted, however Haspelmath (2001: 1500) states that "relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general [...]." It is quite likely, therefore, that Oriya does not possess them.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+It isn't clear from the source consulted whether personal pronouns are obligatory or not.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+It isn't clear from the sources consulted, but Haspelmath (2001: 1501) states that "eastern Indo-European languages have the same expression for intensifiers and reflexives". The term for 'self' is *nijɔ*.
+
+Source:
+- Ray, Tapas S. 2003. Oriya. In: George Cardona & Dhanesh Jain (eds.), 'The Indo-Aryan Languages', London: Routledge.

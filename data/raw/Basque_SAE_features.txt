@@ -1,0 +1,41 @@
+Basque
+======
+
+1. Definite and indefinite articles
+-----------------------------------
+"There are two articles, the so-called definite article *-a* (singular), *-ak* (plural), and the so-called indefinite article *bat*. The first of these is used more broadly than its name would suggest, the second more narrowly." (Hualde & Ortiz de Urbina (eds.), 2003: 118). The definite article is a bound morpheme and the indefinite is identical to 'one' and is the singular of 'some' so is not really an article in the SAE sense. 
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Different relativization strategies are used in Basque. The main distinction is the one separating ordinary embedded relatives from appositive and extraposed relatives with relative pronouns. This second kind [...] is a marked one, [...]." (Hualde & Ortiz de Urbina (eds.), 2003: 762pp).
+	
+3. 'Have' perfect
+-----------------
+"The prefective present [present perfect] is formed with the perfective participle and the present form of the indicative auxiliaries ['to be, to have'], e.g.: *joan naiz* 'I have gone', *erosi dut* 'I have bought (it)'." (Hualde & Ortiz de Urbina (eds.), 2003: 257).
+
+4. Participial passive
+----------------------
+There is no evidence in the source consulted to suggets that a passive, participial or otherwise, exists in Basque.
+
+5. Dative external possessors
+-----------------------------
+"The dative argument can represent either a hidden possessor or a goal (a true argument of the verb)." (Hualde & Ortiz de Urbina (eds.), 2003: 418). Constructions with the genitive are also possible, with notable semantic differences.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Positive polarity items such as 'anybody, anything' require clausemate verbal negation, but are not themselves inherently negative. (See Hualde & Ortiz de Urbina (eds.), 2003: 540-542).
+
+7. Relative-based equative constructions
+----------------------------------------
+"In a comparative phrase, the order is standard-pivot-adjective, and the pivot is [...] *bezain* 'as...as'." (Hualde & Ortiz de Urbina (eds.), 2003: 140). 
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Examples in the source consulted suggest that personal pronouns are not obligatory since verbal marking and context are explicit enough to retrieve that information. 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"There are no true reflexive pronouns; instead, reflexive noun phrases are formed by combining the genitive of an intensive personal pronoun with *buru* 'head' and the definite article *-a*." (Hualde & Ortiz de Urbina (eds.), 2003: 159). The intensive personal pronouns are most typically used when a pronoun is in focus, but also as topicalised noun phrases (Hualde & Ortiz de Urbina (eds.), 2003: 152).
+
+Sources:
+- Hualde, José Ignacio & Ortiz de Urbina, Jon (eds.) 2003. A Grammar of Basque, Berlin: Mouton de Gruyter.

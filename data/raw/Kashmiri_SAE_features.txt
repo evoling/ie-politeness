@@ -1,0 +1,42 @@
+Kashmiri
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+"Nouns are not formally distinguished for being definite or indefinite." (Koul, 2003: 906).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Relative clauses may be finite or non-finite; finite clauses may be correlative or headed type. Relative sentences with finite clauses are marked by the relative pronoun *yus* and the correlative *su*, which decline for gender, number and case and show different forms for animate and inanimate nouns." (Koul, 2003: 939).
+
+3. 'Have' perfect
+-----------------
+"The perfective is formed by the use of auxiliary verbs and by adding [...] suffixes to the past inflected forms of the main verb stems agreeing with the object in gender and number in case of [sic] transitive verbs, and with the subject in case of [sic] intransitive verbs [...]. The perfective occurs in three tenses: present perfect, past perfect and future perfect, marked by present, past and future copular forms respectively." (Koul, 2003: 923). The auxiliary used is *a:sun* 'to be'. (Wali & Koul, 1997: 231).
+
+4. Participial passive
+----------------------
+The passive is formed by adding the postposition 'by' to the subject of the active sentence, and employing the auxiliary/explicator verb 'to come' as well as a passive marker on the main verb root. The former object is in the nominative and controls agreement on 'to come'. (Koul, 2003: 917).
+
+5. Dative external possessors
+-----------------------------
+No evidence for their presence or absence was found in the sources consulted. However, Haspelmath (2001: 1498) states that the eastern Indo-European languages do not have external posesssors at all, thus it is unlikely that Kashmiri possesses them. 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The normal use of *nɨ* [the negative particle] in sentences containing indefinite quantifiers such as *kã:h* 'someone', *kēh* 'something', *kuni* 'ever', negates these elements themselves, producing the effect of negative incorporation found in ENglish words such as no one, nothing, never. These indefinite quantifiers are usually marked with emphatic particles. [...] Most Kashmiri speakers allow only one negative particle per clause. However, in some dialects an extra negative particle is placed also before the verb for emphasis." (Wali & Koul, 1997: 117-118). 
+
+7. Relative-based equative constructions
+----------------------------------------
+"Phrasal equatives use adjectives such as *bara:bar/sumb* 'equal' or *h'uv/hiv'* (msg/mpl), *hish/hishi* (fsg/fpl) 'like'. The agreement of the adjective *h'uv'* links with the matrix subject. Equative adjectives follow the standard of equality, which is assigned a dative case. [...] Correlative equatives use the connective correlative pair [*t'u:t/t'uth...yu:t/yuth* 'that...as'], as it the case with the comparative." (Wali & Koul, 1997: 137-138).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"All pronouns are free. They occur in all positions. They can be dropped if they are recoverable from the verb or from the context." (Koul, 2003: 910).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"The main reflexive in Kashmiri is *pān* 'self'. [...] The emphatic forms are: *pən' pānɨ* 'only by self' [oblique] and *pānay* 'self'." (Koul, 2003: 912-913).
+
+Source:
+- Koul, Omkar N. 2003. Kashmiri. In: George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge. 
+- Wali, Kashi & Kou, Omkar N. 1997. Kashmiri, London: Routledge.

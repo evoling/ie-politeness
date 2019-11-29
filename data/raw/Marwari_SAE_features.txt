@@ -1,0 +1,41 @@
+Marwari
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of articles in Marwari in the source consulted.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Finite relative clauses are formed in the following way: (i) the primary relative marker *jo* 'who/which' is placed in front of the relativised element, (ii) the correlative marker is placed at hte beginning of the head noun, and (iii) the second identical and coreferential NP undergoes optional deletion." (Gusain, 2004: 66).
+
+3. 'Have' perfect
+-----------------
+The perfect aspect is formed by adding the auxiliary verb *hoɳo* 'to be' to the past participle of the verb. The perfect aspect occurs in three tenses -- pluperfect, present perfect, and future perfect marked by past, present, and future copular forms [...]." (Gusain, 2004: 43).
+
+4. Participial passive
+----------------------
+"The passive voice in Marwari is formed in the following way: (i) the subject of the active sentence is followed by the instrumental postposition *syũ*; (ii) the past participial form of the main verb is used with the passive auxiliary *ja* 'go'." (Gusain, 2004: 48).
+
+5. Dative external possessors
+-----------------------------
+No evidence for their presence or absence was found in the source consulted. However, Haspelmath (2001: 1498) states that the eastern Indo-European languages do not have external posesssors at all, thus it is unlikely that Marwari possesses them. 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Evidence from a 'neither-nor' construction seems to suggest that verbal negation is not required in addition to the negative particle. (Gusain, 2004: 46).
+
+7. Relative-based equative constructions
+----------------------------------------
+No evidence for their presence or absence was found in the source consulted. However, Haspelmath (2001: 1500) states that [i]mpressionistically, relative-based equative constructions seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." It is quite possible, therefore, that they do not exist in Marwari either.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Since person affixes in the first, second and third person are the same (they differ only for gender and number), it may be the case that personal pronouns are obligatory, since person cannot be inferred from the verb. (Gusain, 2004: 39). This is not made explicit in the source, however, so needs checking.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No evidence for or against a differentiation, although Haspelmath (2001: 1501) claims that "eastern Indo-European languages have the same expressions for intensifiers and reflexives", thus it is likely that there is no difference in Marwari. Two types of reflexive pronoun exist in Marwari: (i) agentive *apɳe ap* 'self' and (ii) possessive reflexive *apro* 'my/our/your/his/her/their own'. (Gusain, 2004: 24).
+
+Source:
+- Gusain, Lakhan. 2004. Marwari, Munich: Lincom Europa.

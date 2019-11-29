@@ -1,0 +1,41 @@
+Kurdish
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+"Nouns may be inflected for number and definiteness [...]." (McCarus, 2009: 598). Thus definiteness is marked on the noun and not in the form of articles, as in SAE.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"As a rule, relative clauses are introduced by: (1) the conjunction *ka* 'who' if definite and specific; (2) *-ī* if definite, restrictive; (3) no overt connector, or *-ēk*." (McCarus, 2009: 621).
+
+3. 'Have' perfect
+-----------------
+"The present perfect is based on the perfect participle in *-ū/-w*, the person marker, and with transitives the copula *-a*. (McCarus, 2009: 610).
+
+4. Participial passive
+----------------------
+"Passive stems are derived from present stems by *-r-ē/r-ā* (< *-r-ād): *kuž-rē/kuž/rā* 'be killed'. They are inflected with intransitive subject markers [...]." (McCarus, 2009: 604).
+
+5. Dative external possessors
+-----------------------------
+Not clear from the source consulted. However, Haspelmath (2001: 1498) states "[i]n the far west (Welshm Breton, English) and in the southeast (Turkish, Lezgian) of Europe there are languages which do not have external possessors at all. The eastern Indo-European languages Kurdish, Persian and Hindi/Urdu also belong to this type." 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+The following examples sentence (McCarus, 2009: 607) seems to suggest that with negative adverbs, no verbal negation is required: *bałam ēstā hīč kas nī-y-a* 'but now there is noone'.
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from the source consulted. However, Haspelmath (2001: 1500) states that "Impressionistically, relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)."
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+'The independent pronouns are mosty used for emphasis or contrastive focus." (McCarus, 2009: 615).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"Reflexive-emphatic pronouns consist of *xō* 'self' plus a clitic pronoun: *xō-m* 'myself' [...]." (McCarus, 2009: 600).
+
+Source:
+- McCarus, Ernest N. 2009. Kurdish. In: The Gernot Windfuhr (ed.), 'The Indo-Iranian Languages', London: Routledge.

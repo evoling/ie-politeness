@@ -1,0 +1,42 @@
+Bengali
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+"It is convenient to describe referential definiteness phenomena in Bangla in terms of the use of classifiers and other devices [...]. Nominal constructions distribute In/Definiteness information over three points: DemQ, Dem[onstrative] and Q[uantifier] choice; [...]." (Dasgupta, 2003: 379).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"A complement clause is marked either by an opening particle /je/, typical of Indo-European, or by a closing quotative /bole/ [...], which is formally the conjunctive of /bal/ say, typical of Dravidian." (Dasgupta, 2003: 377).
+
+3. 'Have' perfect
+-----------------
+The present perfect is a synthetic form, also termed "half-loose" by Dasgupta (2003: 369). The perfect form of the verb is formed from the perfect stem of hte berb and the light copula element *ch* (Dasgupta, 2003: 372).
+
+4. Participial passive
+----------------------
+"In that case, it becomes appropriate to state that Bangla has no grammatical passive, but can partly mimic the passive effect by using its experiencer subject construction." (Dasgupta, 2003: 376).
+
+5. Dative external possessors
+-----------------------------
+Unclear from the source consulted, but it is likely that Bengali does not have DEPs (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"In Bengali there are no negative adverbs or pronouns like 'never', 'no one', etc. so the affirmative forms are used with a negative verb." (Milne, 1993 [1913]: 216). In fact, Bengali expresses negation in this way slightly differently to the canonical SAE form: it effectively has verbal negation but no negative pronouns/adverbs, not the opposite which is what we would expect from a typical SAE language.
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1500) states that "Impressionistically, relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." Supporting evidence has not been found in the source consulted, however.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Since personal pronouns "establish points on a formality scale" (Dasgupta, 2003: 367), it is highly unlikely that they can be omitted. However the "agreement that the verb exhibits with its subject for Person and Formality conflates 2PF (Second Person Formal) with 3PF, [...]." (idem.).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No differentiation according to Haspelmath (2001: 1501). However, Milne suggests that there are two different forms: "Instead of [...] in the sense of "self" the words [...] and [...] are also very commonly used." (Milne, 1993 [1913]: 88).
+
+Source:
+- Dasgupta, Probal. 2003. Bangla, in George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge. 
+- Milne, W.S. 1993 [1913]. A Practical Bengali Grammar, New Delhi/Madras: Asian Educational Services.

@@ -1,0 +1,47 @@
+Armenian
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+MEA has a definite article that is expressed by the suffix -ě (where the noun ends in a consonant)/-n (when both the noun terminates in a vowel and the following word begins with a vowel). It is suffixed in the following way: noun-(plural suffix)-(case ending)-definite article suffix (Dum-Tragut, 2009: 108).	
+"In recent years there has been a lively debate regarding the very existence and the functions of the indefinite article. This discussion is based on the fact that particularly in colloquial Armenian native speakers do not distinguish the numeral Ù»Ï mek “one” from the indefinite article mi “a”. mi is used to indicate both functions; the cardinal number Ù»Ï mek “one” is only emphatically used to stress the contrast between one or more. Even in written Arme- nian, hypergeneralised forms of the indefinite article ÙÇ mi occur, both functioning as the numeral and as the indefinite article. However, it is clear that there is a semantic distinction between the numeral and the indefinite article in certain contexts." (Dum-Tragut. 2009: 106).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+MEA possesses four main structural types of relative clause, three of which involve a relative pronoun (which may be case marked).
+"There are four structural types [of relative clause] which are also characterised by a preferred, or even fixed, order:
+-a.	Adnominal relative clauses predominantly follow the head noun (NP + REL) or (dem NP + wh REL)
+-b.	Free relative clauses predominantly precede the main clause in subject function, but predominantly follow in object function (RELsubj + S), (S + RELobj)
+-c.	Sentential relative clauses preferably and predominantly follow the main clause. 
+-d.	Participial relative clauses obligatorily precede their head noun (rel + N).
+(Dum-Tragut, 2009: 478-479)
+
+3. 'Have' perfect
+-----------------
+The simple present perfect tense is formed by combining the appropriate form of the auxiliary 'to be' and the past participle (Dum-Tragut, 2009: 222-223).
+
+4. Participial passive
+----------------------
+The passive is formed in MEA in a formally very different way to that of SAE, namely with the stem suffix -v. The infinitive can also be passivised (Dum-Tragut, 2009: 335-337). "The grammatical subject in the ablative case is usually labelled “partitive subject”. The partitive subject denotes the grammatical subject of passive verbs (= the logical object of an active verb) and shows that the action is only carried out on one part, or partially this grammatical subject (logical object)." The partitive subject can only refer to human subjects. (Dum-Tragut, 2009: 313).		
+
+5. Dative external possessors
+-----------------------------
+Both Classical and Modern Armenian lack(ed) this constuction (Haspelmath, in Payne & Barshi (eds.), 1999: 118). The syncretism of the genitive and dative cases renders the categorisation of Armenian as a non-EDP language a little more difficult. (Dum-Tragut, 2009: 83). 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"Clausal negation is expressed by means of analytic negation, i.e. negative prefix ã- č’- attached to finite, analytic verb forms or to the auxiliary or particles of finite, synthetic verb forms, except the negation of imperative clauses (prohibitive)." (Dum-Tragut, 2009: 522). [The] MEA negative indefinites obligatorily co-occur with verbal negation. (Dum-Tragut, 2009: 143).	
+
+7. Relative-based equative constructions
+----------------------------------------
+"In specific equative constructions MEA uses the relative-based, canonical construction with a separate parameter and standard marker, i.e. [...]̈ aynpes....inč’pes “as....as”. These markers are preferably used with qualitative adjectives. [...] In equatives denoting quantity, 3ÛÝù3Ý aynk’an is used as the parameter and ÇÝãù3Ý inč’k’an as the standard marker. These markers are usually combined with quantitative expressions but also with qualitative adjectives expressing dimension.[...] In colloquial Armenian there is another construction for copular (or verbal predicate) equative constructions." (Dum-Tragut, 2009: 538-539). 
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+MEA is a pro-drop language thus "subjects can [also] be inherently expressed by the finite verbal form or the auxiliary in compound tenses and moods – in its number and person conjugation." (Dum-Tragut, 2009: 313).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"In addition to the regular personal pronoun there also exists an emphatic pronoun with the basic form ink’e 'self'̆" (Dum-Tragut, 2009: 126). This pronoun three semanto-syntactic functions: (i) intensive pronoun, (ii) reflexive pronoun, and (iii) third-person pronoun (only in the spoken language). (Dum-Tragut, 2009: 126-127).	
+
+Additional source: Payne, Doris L. & Immanuel Barshi (1999). External Possession. Amsterdam: John Benjamins. 

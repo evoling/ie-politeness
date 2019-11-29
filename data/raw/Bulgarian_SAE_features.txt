@@ -1,0 +1,41 @@
+Bulgarian
+=========
+
+1. Definite and indefinite articles
+-----------------------------------
+Definiteness is "expressed by a **definite article**, postposed to the first nominal constituent of definite noun phrases." (Scatton, 1993: 199). There is no evidence of an indefinite article, however, this function being carried out through zero affixing.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"**Headed relative clauses**, postposed to noun phrases, are marked by initial relative pronouns [...], preceded by prepositions governing them. The number and gender of relative pronouns agree with their antecedents; case is determined by the function of the pronouns in the relative clauses [...]." (Scatton, 1993: 228).
+
+3. 'Have' perfect
+-----------------
+The present perfect is formed using the appropriate present tense form of the verb 'to be' and the aorist past active participle (Scatton, 1993: 211).	
+
+4. Participial passive
+----------------------
+One of the three passive formations is a form of any tense of the verb 'to be' plus a past passive participle of a transitive verb. The two other forms are: (i) a finite form of a transitive verb with the accusative reflexive pronoun ce/se, and (ii) the impersonal (i.e. subjectless) third person plural finite form of a transitive verb. These formations do have slightly different semantic and grammatical nuances, however. (Scatton, 1993: 213-214).
+
+5. Dative external possessors
+-----------------------------
+Both clitic dative personal pronouns and prepositional pronouns with *na* can be used to express possession, but it isn't clear from the source whether Bulgarian does indeed make use of DEP. Haspelmath (2001: 1498) states that they are found in Balto-Slavic languages (among others) so it is likely that that Bulgarian does.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Negative pronouns and the negative particle *ne* accompany the verb to express (simple) negation (Scatton, 1993: 233).
+
+7. Relative-based equative constructions
+----------------------------------------
+"In some Balkan languages, the correlative demonstrative is not used (e.g. Bulgarian *xubava kato tebe* 'as pretty as you', but the standard marker is clearly of relative-pronoun origin." (Haspelmath, 2001: 1499). 
+ 
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+The following example demonstrates that subject personal pronouns are not obligatory in Bulgarian: Dadox nego na neja '(I) gave it to her' (Scatton, 1993: 204). Indeed the "omission of pronominal subjects, including first and second person, is extremely common. [...] Omission is naturally facilitated by verb and adjective concord with the subject [...]." (Scatton, 1993: 234).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Reflexives of the type se (1SG) differ form emphatic forms, such as cebe (also 1SG). (Scatton, 1993: 235).
+
+Source:
+- Scatton, Ernest A. 1993. In: Bernard Comrie and Greville G. Corbett (eds.), 'The Slavonic Languages', London: Routledge. 

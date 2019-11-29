@@ -1,0 +1,41 @@
+Serbocroat
+==========
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of either a definite or indefinite article in the source consulted. Since articles are absent from West Slavic languages (Haspelmath, 2001: 1494), it is fair to assume that this lack of evidence points to a lack in the language.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Relative clauses, unlike complements, can be attached to any noun phrase. In Serbo-Croat the head of the antecedent phrase determines the relativizers used. If the head is a noun or personal pronoun, the main relativizer is kòjī 'which', which agrees with its antecedent in gender and number and takes case endings [...] according to funciton in the subordinate clause." (Browne, 1993: 359).
+
+3. 'Have' perfect
+-----------------
+The perfect is formed from the auxiliary clitic *sam*, or its full form *jecam* 'to be' and the *l*-participle of the verb. This is the all-purpose past tense. (Browne, 1993: 330).
+
+4. Participial passive
+----------------------
+"The passive [...] consists of a passive participle and a tense of 'to be' as auxiliary [...]." (Browne, 1993: 333).
+
+5. Dative external possessors
+-----------------------------
+"Dative constituents, particularly clitic pronouns, frequently rxpress possessors." (Browne, 1993: 370). 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"In sentences containing ne on the verb, i- indefinites add initial n- to become negative forms [...]. So does the conjunction and particle i 'and; also, even'. [...] Several such items can appear together. (Browne, 1993: 362).
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1499-1500) states that Slavic languages possess relative-based equative constructions, although no evidence or examples of them were found in the source consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Serbo-Croat is described as a pro-drop language, one in which a personal pronoun need not be used in subject position." (Browne, 1993: 365).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+*sam* appears to be the intensifier, and *sebe* the reflexive (unchanging) pronoun. (Browne, 1993: 366-367).
+
+Source:
+- Browne, Wayles. 1993. Serbo-Croat. In: Bernard Comrie and Greville G. Corbett (eds.), 'The Slavonic Languages', London: Routledge. 

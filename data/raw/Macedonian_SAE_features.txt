@@ -1,0 +1,42 @@
+Macedonian
+==========
+
+1. Definite and indefinite articles
+-----------------------------------
+"Definiteness is marked by means of the definite article [...]. The numeral eden 'one' functions as as indefinite article denoting specificity and can even trigger object reduplication [...]." (Friedman, 1993: 261).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Many WH- words also function as relativisers in Macedonian. [...] Subjects and objects can both be extracted out of subordinate clauses. (Friednam, 1993: 289).
+
+3. 'Have' perfect
+-----------------
+Perfects with 'have' and 'be' both exist in Macedonian. (Tomić, 2006: 346). NB. The nature of the auxiliaries is not completely clear; it appears that there may be an argument for treating them as copulas instead.
+
+4. Participial passive
+----------------------
+"The passive is formed either with ce/se or with 'be' plus verbal adjective [...]." (Friedman, 1993: 272). 
+
+5. Dative external possessors
+-----------------------------
+"Unlike Bulgarian, Macedonian clitic dative pronouns are not used with noun phrases to indicate possession, except with kinship terms and similar expressions [...]." (Friedman, 1993: 293).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"A sentence can have more than one negative element, and if a negative pronoun is used the verb must also be negated [...]." (Friedman, 1993: 290).
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1499-1500) states that Slavic languages possess relative-based equative constructions, although no evidence or examples of them were found in the source consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Macedonian [...] omits unstressed subject pronouns, which normally occur only for emphasis, contrast, disambiguation or formality." (Friedman, 1993: 291).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Reflexivity is expressed by the reflexive personal pronouns *se, si, sebe, sebesi*, the reflexive pronominal adjective *sopstven* 'one's own' (also 'characteristic') and the verbal prefix *samo-*. The emphatic pronominal adjective *sam* is normally definite when it means 'self' and indefinite when it means 'alone'. (Friedman, 1993: 292).
+
+Source:
+- Friedman, Victor A. 1993. Macedonian. In: Bernard Comrie and Greville G. Corbett (eds.), The Slavonic Languages, London: Routledge.
+- Tomić, Olga M. 2006. Balkan Sprachbund Morpho-Syntactic Features, Dordrecht: Springer.

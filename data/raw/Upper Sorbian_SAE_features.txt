@@ -1,0 +1,41 @@
+Upper Lusatian
+==============
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence or mention of definite or indefinite articles in Upper Lusatian in the source consulted. (Stone, 1993: 593-685).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"The relative pronouns introducing relative clauses are in most cases derived from interrogative pronouns by the addition of *-ž* [...]." (Stone, 1993: 664).
+
+3. 'Have' perfect
+-----------------
+The perfect is expressed analytically for verbs of both aspects, by means of the present tense of the verb 'to be' and the *l*-participle. (Stone, 1993: 635-636).
+
+4. Participial passive
+----------------------
+The passive may be formed in Upper and Lower Sorbian either with the verb 'to be' in conjunction with the past passive participle [...] or with a special part of the verb 'to be' [...]. The forms like *buch* are the Sorbian equivalents of German *werden* 'to become' and like *werden* are used both to form the passive and with the meaning 'to become' [...]." (Stone, 1993: 638-639).
+
+5. Dative external possessors
+-----------------------------
+It isn't clear from the sources consulted, however Haspelmath states that "external possessors in the dative [are] found in Romance, Continental West Germanic, Balto-Slavic, Hungarian and Balkan languages [...]." (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"In sentences containing negative adverbs or pronouns such as USo *nihdy* 'never', *nihdźe* 'nowhere', *ničo* 'nothing', *nichtó* 'no one', *ženje* 'never'[...], the verb must be negated [...]." (Stone, 1993: 667).
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1499-1500) states that Slavic languages possess relative-based equative constructions, although no evidence or examples of them were found in the source consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Several example sentences are given in which the subject personal pronoun has been omitted (see, e.g., Stone, 1993: 673).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Not clear from source. Non-reflexive possessive pronouns can be used to avoid ambiguity in sentences embodying reflexive pronouns (Stone, 1993: 670), but this isn't the same issue. The language is likely to differentiate between the two functions, since all the other Slavic langauges do (Haspelmath, 2001: 1501), but nowhere is it expressed explicitly for Upper Lusatian.
+
+Source:
+- Stone, Gerald. 1993. Sorbian (Upper and Lower). In: Bernard Comrie and Greville G. Corbett (eds.), The Slavonic Languages, London: Routledge.

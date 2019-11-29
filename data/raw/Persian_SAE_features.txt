@@ -1,0 +1,41 @@
+Persian
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+Persian does not possess definite and indefinite articles, but expresses notions of definiteness and indefiniteness through the referential -e/-he and indefinite enclitic -i/-e or indefinite determiners respectively (Windfuhr & Perry, 2009: 432).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"There are no dedicated relative pronouns. Agreement and case roles of the head inside the relative clause are indicated by the combination of the general complementizer ke/ki and anaphoric reference" (Windfuhr & Perry, 2009: 503). The relative marker is a particle rather than a pronoun.
+
+3. 'Have' perfect
+-----------------
+"The present perfect tense is formed from the past participle plus the enclitic copula of the verb [...]." (Windfuhr & Perry, 2009: 453-455).
+
+4. Participial passive
+----------------------
+The passive voice is formed for all tenses with the past (perfect) participle of the main verb and the inflected auxiliary 'become, get' (Windfuhr & Perry, 2009: 498-499).
+
+5. Dative external possessors
+-----------------------------
+DEPs don't exist in Persian (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Negation is expressed through the negative prefix *na-*, *ne-* before *mi-* (Windfuhr & Perry, 2009: 452). It is not clear whether this verbal negation co-occurs with a negative adverb. According to Haspelmath (2001: 1498-1499), the NV + NI type is typical of the eastern Indo-European languages (Iranian and Indic).
+
+7. Relative-based equative constructions
+----------------------------------------
+There is no evidence in Windfuhr & Perry (2009) to suggest that such a construction exists in Persian, and Haspelmath (2001: 1500) also states that "the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)."
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Both the subject and object may be lexically omitted from a clause since the person of the subject is incorporated in the verb, and the object of transitive verbs may be contextually implied (Windfuhr & Perry, 2009: 479). 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+The pronoun *xod/xud* is used possessively, 'own', reflexively, 'self', and emphatically, '-self' (Windfuhr & Perry. 2009: 436).
+
+Source:
+- Windfuhr, Gernot & Perry, John R. 2009. Persian and Tajik. In: Gernot Windfuhr (ed.), 'The Indo-Iranian Languages', London: Routledge. 

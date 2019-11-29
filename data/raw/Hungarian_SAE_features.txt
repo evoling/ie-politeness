@@ -1,0 +1,41 @@
+Hungarian
+=========
+
+1. Definite and indefinite articles
+-----------------------------------
+The definite article is *a* and the indefinite article is *egy*. (Kenesi, Vago & Fenyvesi, 1998: 256-258).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Relative clauses are marked by (phrases containing) relative pronouns, and the (phrase containing) the relative pronoun must be clause-initial. (Kenesi, Vago & Fenyvesi, 1998: 27-28). "Prenominal relative clauses are nonfinite, marked on the clause-final  verb as an active ("present") or passive ("past") participle. [...] Postnominal relative clauses are marked by an optional demonstrative along with the lexical head noun and a (phrase containing the) obligatory relative pronoun in clause-initial position." (Kenesi, Vago & Fenyvesi, 1998: 38).
+
+3. 'Have' perfect
+-----------------
+There appears to be no periphrastic present perfect consturction in Hungarian. Only one past tense exists, and this is synthetic both for aspect and tense. (See, e.g., Kenesi, Vago & Fenyvesi, 1998: 294-297).
+
+4. Participial passive
+----------------------
+"In the passive construction the lexical verb is in the adverbial participial (or 'simple converb') form (bearing the suffix *-va/ve*), and tense, person and number are marked on the copula." (Kenesi, Vago & Fenyvesi, 1998: 283).
+
+5. Dative external possessors
+-----------------------------
+An example of what appears to be dative external possession is found in Kenesi, Vago & Fenyvesi (1998: 159).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Universal negative polarity items such as *senki* 'nobody' and *semmi* 'nothing' require clausemate preverbal negation with the negative particle *nem/sem*. (Kenesi, Vago & Fenyvesi, 1998: 116-117).
+
+7. Relative-based equative constructions
+----------------------------------------
+"Equatives are solely expressed by means of the clausal construction intorduced by teh complementizer *mint* 'as, than' and a relative pro-form in the clause, and by various demonstrative items in the main clause." (Kenesi, Vago & Fenyvesi, 1998: 155).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Free pronouns are not obligatory in all circumstances." (Kenesi, Vago & Fenyvesi, 1998: 260).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"Reflexive pronouns are used as emphatic pronouns, occurring optionally together with the personal pronouns." (Kenesi, Vago & Fenyvesi, 1998: 272).
+
+Sources:
+- Kenesi, István, Vago, Robert M., & Fenyevesi, Anna. 1998. Hungarian, London: Routledge.	

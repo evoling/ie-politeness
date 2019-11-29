@@ -1,0 +1,42 @@
+Sardinian (N)
+=============
+
+1. Definite and indefinite articles
+-----------------------------------
+The definite articles derive from Latin IPSUM, IPSAM (Jones, 1988: 329).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+The item *ki* [...] can be regarded as the complementiser which introduces most types of finite subordinate clauses rather than a relative pronoun.
+
+3. 'Have' perfect
+-----------------
+The perfect (and pluperfect) tense is expressed by the present of áere 'to have' and the past participle, with the former as the unmarked auxiliary (Jones, 1988: 334).
+
+4. Participial passive
+----------------------
+An analytic passive with *éssere* + past participle exists but is rarely used in colloquial speech and is regarded by some grammarians as an innovation due to Italian influence. Instead, the past participle os often used with a passive funtion after *kérrere* 'need' and after the preposition *kene* 'without' (the latter in more negative type contexts). The most common construction however is the pronominal verb construction with the reflexive clitic *si* 'one, generic subject'. (Jones, 1988: 340-341).
+
+5. Dative external possessors
+-----------------------------
+Exist in Sardinian (dialect not specified) according to Haspelmath (2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"When the sentence contains a negative pronoun, quantifier or adverb [...] in postverbal position, *non* must be prefixed to the verb [...]. However, *non* does not occur when teh negative pronoun, quantifier or adverb precedes the verb (e.g. in the canonical subject position [...])." (Jones. §988: 341).
+
+7. Relative-based equative constructions
+----------------------------------------
+"In comparatives of equality, the complement is introduced by *ke*, *kantu* or *komente*. With *ke* the following noun usually lacks an article and has non-specific reference [...]. When the complement has definite human reference, it takes the prepositional accusative form (with *a* [...]) just as in direct object position: *mannu koment'/kant a tie* 'as tall as you'." (Jones, 1988: 336). I think this contradicts Haspelmath's data for Sardinian (2001: 1500).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"[...] Sardinian is a 'pro-drop' language; i.e. the subject can be omitted in finite clauses when the inflection of the verb is sufficient to establish intended reference (Jones, 1988: 334).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+This differentiation exists in Sardinian (dialect not specified) according to Haspelmath (2001: 1501).
+
+Sources:
+- Jones, Michael. 1988. Sardinian, in Martin Harris & Nigel Vincent, 'The Romance Languages', London: Routledge.
+- Haspelmath, Martin. 2001. The European linguistic area: Standard Average European. In: Haspelmath, Martin & König, Ekkehard & Oesterreicher, Wulf & Raible, Wolfgang (eds.) Language typology and language universals. (Handbücher zur Sprach- und Kommunikationswissenschaft) Berlin: de Gruyter, 1492-1510.

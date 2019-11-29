@@ -1,0 +1,41 @@
+Luxembourgish
+=============
+
+1. Definite and indefinite articles
+-----------------------------------
+Luxembourgish possesses both definite and indefinite articles. (Russ, 1996: 77-78).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"The role of the relative pronoun is generally taken by the demonstrative pronoun *dee(n)*, *dei*, *dat*, though *wat*, NHG *was* 'what' can appear for *dat*." (Russ, 1996: 84).
+
+3. 'Have' perfect
+-----------------
+"Auxiliary verbs are used to help form tenses such as the perfect, future, conditional." (Russ, 1996: 88).
+
+4. Participial passive
+----------------------
+"Lëtzebuergesch also distinguishes between these [NHG] two passive constructions. However, to form the actional passive the auxiliary *gi(n)*, NHG *geben* 'to give' is used [...]. The statal passive is formed with the verb *si(n)* [...]. The verb *gi(n)* also covers most senses of the NHG *werden* 'to become'." (Russ, 1996: 85).
+
+5. Dative external possessors
+-----------------------------
+Not clear from the source consulted but given that this feature is present in both German and French, it is highly likely to exist also in Luxembourgish.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Not clear from the source consulted but given that this feature is present in both German and French, it is highly likely to exist also in Luxembourgish.
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from the source consulted but given that this feature is present in both German and French, it is highly likely to exist also in Luxembourgish.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Not clear from the source consulted but given that this feature is present in both German and French, it is highly likely to exist also in Luxembourgish.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Not clear from the source consulted but given that this feature is present in both German and French, it is highly likely to exist also in Luxembourgish.
+
+Source:
+- Russ, Charles V. J. 1996. Lëtzebuergesch: A Linguistic Description. In: Gerald Newton (ed.) Luxembourg and Lëtzebuergesch: Language and Communication at the Crossroads of Europe, Oxford: Oxford University Press.

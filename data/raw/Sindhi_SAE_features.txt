@@ -1,0 +1,42 @@
+Sindhi
+======
+
+1. Definite and indefinite articles
+-----------------------------------
+"The Sindhi possesses no article definite, as little as the Sanskrit and the modern Arian tongues of India. The noun may therefore be definite or indefinite, as: [...] the woman or: a woman. There are no fixed rules, by which a noun may be known as definite or indefinite, the only safe guide is attention to the context." (Trumpp, 1986 [1872]: 425-426).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"The relative pronoun in SIndhi is [...] who, which, and the correlative [...] that, which usually takes up the relative. Beside the relative [...], the indefinite pronouns [...] whosoever , [...] whatsoever may also correspond to the following correlative [...]. Instead of the correlative [...] a demonstrative may be used, if the stress be laid upon it. The sentence headed by the relative pronoun may either precede or follow that commenced by the correlative [...]; for the sake of emphasis the correlatives may be repeated. [...] The relative pronoun (and, as the case may be , the correlative) usually precedes the substantive, to which it refers, but the relative may also follow, if the substantive has one or more attributes." (Trump, 1986 [1872]: 472-474).
+
+3. 'Have' perfect
+-----------------
+Trumpp (1986 [1872]: 296) states that the present perfect is analytic in construction, being formed by adding the auxililary verb *ahiya* etc 'to be' to the past participle. 
+
+4. Participial passive
+----------------------
+The passive stem can be derived form a transitive, intransitive or causative stem. (Khubchandani, 2003: 643). It is thus synthetic and requires no auxiliary. 
+
+5. Dative external possessors
+-----------------------------
+Unclear from the sources consulted, but it is likely that Oriya does not have DEPs (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+It is not clear from the source consulted whether Sindhi lacks or possesses verbal negation. It is likely, however, that it is of the type NI+NV since this is the type widely found in the eastern I-E languages (Indic and Iranian). (Haspelmath, 2001: 1498-1499).
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from the sources consulted, however Haspelmath (2001: 1500) states that "relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general [...]." It is quite likely, therefore, that Sindhi does not possess them.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"The conjugation of a verb in Sindhi is usually governed by the number and the person, also by the gender in certain cases, of the subject. [...] Hence in colloquial speech one can optionally drop the subject or direct object (pronoun or otherwise) predicetd from teh context, and which can be identified by the conjugation of the verb [...]." (Khubchandani, 2003: 652).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+It isn't clear from the sources consulted, but Haspelmath (2001: 1501) states that "eastern Indo-European languages have the same expression for intensifiers and reflexives". The words for 'self' are *panə* and xUdI*. (Khubchandani, 2003: 641). 
+
+Source:
+- Khubchandani, Lachman M. 2003. Sindhi. In: George Cardona & Dhanesh Jain (eds.), 'The Indo-Aryan Languages', London: Routledge.
+- Trumppp, Ernest. 1986 [1872]. Grammar of the Sindhi Language, Compared with the Sanskrit-Prakrit and the Cognate Indian Vernaculars, Delhi: Asian Educational Services.

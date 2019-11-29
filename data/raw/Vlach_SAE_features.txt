@@ -1,0 +1,42 @@
+Vlach
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+Definite articles exist, and inflect for gender and case, while indefiniteness is expressed by the indefinite marker/pronoun *ware-*, a loan from Romanian *oare-*. (Boretzky, 2003: 39-40, 49). Indeed overt marking of indefiniteness in Romani is facultative. (Matras, 2002: 98).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"On the one hand, Romani follows the European type of relative clause. No expression is used exclusively as a relativiser, and no trace is found of the Indo-Aryan relativiser in *y-/j-*. Rather, relativisiers (and the embedding conjunctions) are recruited from teh inventory of interrogatives. On the other hand, Romani has obligatory resumptive pronouns when the head noun assumes a role other than the subject role within the relative clause. (Matras, 2002: 176-177).
+
+3. 'Have' perfect
+-----------------
+The perfect is synthetic in Vlax, as it is in most Romani dialects, with the notable exception of Sepečides and Ipeiros, as wel as some Arli varieties, under contact influence from Greek and Macedonian respectively. (Matras, 2002: 157).
+
+4. Participial passive
+----------------------
+Contrary to most other TAM forms in Vlax/Romani, the passive is analytic, involving a copula auxiliary and a past participle (also called a perfect or passive participle). (Matras, 2002: 127-128).
+
+5. Dative external possessors
+-----------------------------
+External possession varies across Romani dialects, but in Vlax the accusative (independent oblique), not the dative, is used. (Matras, 2002: 174).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Clause negation historically relied on the verb negator rather than an indefinite negative in most Romani dialects, although Lovari (Northern Vlax) appears to combine both verbal negation and a negative indefinite pronoun. (Matras, 2002: 190).
+
+7. Relative-based equative constructions
+----------------------------------------
+No evidence for the presence or absence of this feature could be found in the sources consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+The examples provided in the sources seem to suggest that subject person pronouns can be omitted in Vlax, since person and number marking is also captured on the verb. 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+It isn't clear from the sources consulted whether there are separate intensifiers and reflexive pronouns.
+
+Source:
+- Boretzky, Norbert. 2003. Die Vlach-Dialekte des Romani: Strukturen, Sprachgeschichte, Verwandtschaftsverhältnisse, Dialektkarten, Wiesbaden: Harrassowitz.
+- Matras, Yaron. 2002. Romani: A Linguistic Introduction, Cambridge: Cambridge University Press.	

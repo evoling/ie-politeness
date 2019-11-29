@@ -1,0 +1,41 @@
+Waziri (Pashto)
+===============
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of of the presence of definite or indefinite articles in the source consulted. (Robson & Tegey, 2009).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Relative clauses usually follow the head noun they modify and are introduced by *che* or *tse* 9'that']. The definite noun must be marked by a demonstrative. Within the relative clause, the head noun is referred to either by the personal ending or the enclitic pronoun if subject or object, depending on the transitivity of the verb and the tense, and in prepositional phrases by the enclitic pronoun." (Robson & Tegey, 2009: 759).
+
+3. 'Have' perfect
+-----------------
+The present perfect is formed - for both transitive and intransitive verbs - with the main verb+imperfective marker+person/gender marker and the auxiliary+present imperfective marker+person marking. (Robson & Tegey, 2009: 749).
+
+4. Participial passive
+----------------------
+The passive is formed form the infinitive plus the present imperfective form of the auxiliary 'to become'. (Robson & Tegey, 209: 753).
+
+5. Dative external possessors
+-----------------------------
+No evidence for their presence or absence was found in the source consulted. However, Haspelmath (2001: 1498) states that the eastern Indo-European languages do not have external posesssors at all, thus it is unlikely that Waziri possesses them. 
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The negative pronoun is *hets* 'any' with negated verb, e.g. *hetsok* 'nobody'; also *hechera* 'nowhere (to)', etc." (Robson & Tegey, 2009: 735).
+
+7. Relative-based equative constructions
+----------------------------------------
+No evidence for their presence or absence was found in the source consulted. However, Haspelmath (2001: 1500) states that [i]mpressionistically, relative-based equative constructions seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." It is quite possible, therefore, that they do not exist in Waziri either.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"The independent pronouns are used for emphasis [...]." (Robson & Tegey, 2009: 734). This suggests that they aren't obligatory.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No evidence for or against a differentiation, although Haspelmath (2001: 1501) claims that "eastern Indo-European languages have the same expressions for intensifiers and reflexives", thus it is likely that there is no difference in Waziri. 
+
+Sources:
+- Robson, Barbara & Tegey, Habibullah. 2009. Pashto. In: Gernot Windfuhr (ed.), 'The Indo-Iranian Languages, London: Routledge. 

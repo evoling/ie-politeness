@@ -1,0 +1,43 @@
+Ladin
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+One common inherited paradigm for definite articles exists across Rhaeto-Romance, comprising four contrasting forms (masc sg, fem sg, masc pl, fem pl) (Haiman & Benincà, 1992: 120). The indefinite article and numeral 'one' are identical syntactically except in the Badiot and Gardena (and perhaps other) dialects of Ladin, where the two are distinguished although the indefinite article remains a phonologically degenerate form of the numeral (Haiman & Benincà, 1992: 152).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Varying analyses of the relative pronouns in Rhaeto-Romance dialects exists (particularly with reference to their role in word order) but an in-depth discussion isn't necessary here. For more information, see Haiman & Benincà (1992: 167-169). 
+
+3. 'Have' perfect
+-----------------
+"As in other Romance languages, the perfect axiliary is either 'have' or 'be'" (Haiman & Benincà, 1992: 108).
+
+4. Participial passive
+----------------------
+"In Ladin, the auxiliary 'be' is used when the action is viewed as competed, and the focus is on the resulting state; 'come' is used when the action is in progress (Elwert 1943: 158; Pizzinini and Plangg 1966: xlviii Alton and Vittur 1968: 48)" (Haiman & Benincà, 1992: 108).
+
+5. Dative external possessors
+-----------------------------
+Not clear from any of the sources below.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Ladin possesses a double negative system, that also holds when a negative pronoun occupies the subject position: "Tla negazion enfatica pò i averbs de negazion nia, nia plu, mai, iniò, nience sté tla pruma posizion dla frasa y ghira enscì la inverscion aldò dla strutura TVX [...]" (Chiocchetti (ed.), 2001: 105).
+
+7. Relative-based equative constructions
+----------------------------------------
+L comparatif de valivanza vegn formé con i averbs desche, sciche o con la congiunzion corelativa tant …che, p.ej.: tant burt che sclet (Chiocchetti (ed.), 2001: 40).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"In the Italian Rhaeto-Romance dialects, as in Italian [...]. full personal pronoun subjects are omitted unless they are in focus. Clitic pronoun subjects are frequently present [...]" (Haiman, 1988: 385).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Not clear from the sources below.
+
+Sources:
+- Haiman, John and Paola Benincà. 1992. The Rhaeto-Romance Languages, London: Routledge.
+- Haiman, John. 1988. Rhaeto-Romance, in Martin Harris & Nigel Vincent, "The Romance Languages", London: Routledge.
+- Chiocchetti, Nadia (ed.). 2001. Gramatica dl Ladin Standard, Ciavaleis / Cavalese: Nova Print.

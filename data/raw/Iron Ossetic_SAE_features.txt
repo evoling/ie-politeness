@@ -1,0 +1,42 @@
+Iron Ossetic
+============
+
+1. Definite and indefinite articles
+-----------------------------------
+"The contrast bewteen definiteness and indefiniteness is only possible for substantives and accentual groups having stress on the second syllable; that is, if a definite object is involved, the stress shifts to the first syllable [...]. This phenomenon is historically connected with the past existence of a definite article [...] which is historically preserved in Digor up to the present day." (Abaev, 1964: 12).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"The connection between main and subordinate clause is expressed by various subordinating conjunctions and pronouns. But there are also cases of subordination without a conjunction. [...] The order of succession in a complex construction can be varied, but the general tendency is that the subordinate is before the main clause." (Abaev, 1964: 129).
+
+3. 'Have' perfect
+-----------------
+Participles ending in -æg (usually with an active meaning), when prefixed, acquire the meaning of past tense. (Abaev, 1964: 47). "The endings of the past tense for intransitive verbs [...] coincide with the present tense forms of the auxiliary [...] 'to be'. [...] This indicates the periphrastic nature of the given forms. Past tense forms are derived from the past participle with the present tense of the auxiliary verb: [...] 'I went' from [...] 'I am gone', etc." (Abaev, 1964: 51-52).
+
+4. Participial passive
+----------------------
+"The passive voice is rendered by combining the past participle of the main verb with the verb [...] 'to go': [...]. In these constructions, the actor (the logical subject) is generally absent." (Abaev, 1964: 44).
+
+5. Dative external possessors
+-----------------------------
+It may be the case that the genitive is used rather than the dative in DEP constructions, although additional evidence is definitely required as only one seemingly suitable example sentence has been found (see Hettich, 2010: 48).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Based on some example sentences found in Hettich (2010: 43, 47, 52, 65, 82), it would appear that Ossetic uses only a negative pronoun/particle to negate a predicate. Also, Abaev (1964: 30) exaplains that negative pronouns are formed by oprefixing the particle ni- to interrogative pronouns, which may suggest that the negative element of the phrase is expressed here. 
+
+7. Relative-based equative constructions
+----------------------------------------
+Equatives are expressed through what Abaev (1964: 19) refers to as the 'equative case' but that Hettich (2010: 44-45) prefers to call "an instance of derivation of adverbs from nouns." Either way, the construction confers the notion of 'like' or 'as'.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"The subject can be expressed by any substantival form (noun, pronoun, verbal noun) in the nominative case [...]. With some verbs ('to want', 'to believe') the logical subject is in the genitive case sintead of being in the nominative." (Abaev, 1964: 121). This seems to suggest that the subject must always be explicitly expressed, along with the person and number marking on the verb.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"The form [...] 'oneself', 'one's own' is used as a reflexive pronoun; [...] 'self' is not used alone." (Abaev, 1964: 25). But in Hettich (2010: 65), severak examples of reflexive pronouns with emphatic funcitons are provided, suggesting that an intensifier-reflexive differentiation doesn't exist in Ossetic. 
+
+Sources: 
+- Abaev, V.I. 1964 [1959, 1952]. A Grammatical Sketch of Ossetic, Bloomington: Indiana University.
+- Hettich, Bela. 2010. Ossetian, Munich: LINCOM. 

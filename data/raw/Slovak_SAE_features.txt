@@ -1,0 +1,41 @@
+Slovak
+======
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of either a definite or indefinite article in the source consulted. Since articles are absent from West Slavic languages (Haspelmath, 2001: 1494), it is fair to assume that Slovak does not possess them.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Object clauses are introduced by the conjunction *že* 'that'; it never competes with the neuter interrogative or relative pronoun *čo*." (Stone, 1993: 573). "[...] the relative pronoun is *ktorý*, frequently replaced by the absolute *čo* in subject or object positions." (stone, 1993: 575).
+
+3. 'Have' perfect
+-----------------
+"Past-tense forms of either aspect, based on the *l*-participle, with auxiliaries (present-tense forms of (byt'*) in first and second persons only, also express anteriority in subordinate clauses [...]." (Stone, 1993: 554).
+
+4. Participial passive
+----------------------
+There are two means of expressing the passive: (i) using the passive participle of any transitive verb with the auxiliary *byt'*, and (ii) using a reflexive form. (Stone, 1993: 558).
+
+5. Dative external possessors
+-----------------------------
+"With intimate possessions, clothing, body parts, etc. ownership is often expressed by the dative [...]." (Stone, 1993: 580).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"In clauses containing a negative item (pronoun subject, object, pronoun-adverb and so on) the verb carries secondary negation obligatorily [..]." (Stone, 1993: 577).
+
+7. Relative-based equative constructions
+----------------------------------------
+"The conjunctions etc of comparison are: *ako* 'as/like; than' [...]: *starý ako ja* 'as old as I' [...]." (Stone, 1993: 551).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"[...] the unstressed version [of the pronoun] is represented by zero, person being adequately expressed by the verb." (Stone, 1993: 546).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+The notion of '-self, the very' is expressed by *sám, sama, samo, sami* (Stone, 1993; 547), while reflexivity and reciprocity are both expressed by the pronoun-particle *sa*. (Stone, 1993 579).
+
+Source:
+- Short, David. 1993. Slovak. In: Bernard Comrie and Greville G. Corbett (eds.), 'The Slavonic Languages', London: Routledge. 

@@ -1,0 +1,41 @@
+Gujarati
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence in the source consulted to suggest that Gujarati possesses a definite and/or indefinite article.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"In relative sentences [...], relative pronominals [...] and *jo* 'if' are linked with correlatives, that is, corresponding forms of demonstratives as well as *to* 'then'. Relative phrases precede correlative phrases and are characterized by *j-* [...]." (Cardona & Suthar, 2003: 692).
+
+3. 'Have' perfect
+-----------------
+A perfective suffix indicates mood and tense (Cardona & Suthar, 2003: 679).
+
+4. Participial passive
+----------------------
+Gujarati has both a morphological and a periphrastic passive formation. (Cardona & Suthar, 2003: 686). 
+
+5. Dative external possessors
+-----------------------------
+Unclear from the source consulted, but it is likely that Gujarati does not have DEPs (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+It appears from the one example cited in the source (Cardona & Suthar, 2003: 676) that Gujarati employs a NI+NV strategy, with the negative particle *na* (attaching to an indefinite pronoun in this instance) co-occurring with the verbal negation particle *nəhi*.
+
+7. Relative-based equative constructions
+----------------------------------------
+Seems to be composed of the appropriately inflected forms of *je* and *te*, which is translated variously as 'as...that' and 'as...so'. This construction seems to behave in such a way as to act as a counterexample of Haspelmath's (2001: 1499-1500) generalisation that the eastern IE languages (except Punjabi) don't possess such constructions. 
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Personal pronouns can be omitted if there [sic] use is not intended for contrastive emphasis." (Cardona & Suthar, 2003: 691).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+It isn't clear from the sources consulted, but Haspelmath (2001: 1501) states that "eastern Indo-European languages have the same expression for intensifiers and reflexives".
+
+Source:
+- Cardona, George & Suthar, Babu. 2003. Gujarati. In: George Cardona & Dhanesh Jain (eds.), 'The Indo-Aryan Languages', London: Routledge.

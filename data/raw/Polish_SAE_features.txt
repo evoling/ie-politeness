@@ -1,0 +1,41 @@
+Polish
+======
+
+1. Definite and indefinite articles
+-----------------------------------
+"Polish expresses indefiniteness by means of three sets of indefinite pronouns. Adding *ś* to an interrogative pronoun or other interrogative gives the meaning of lack of identification [...]." (Rothstein, 1993: 704).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+See Rothstein (1993:734-740) for an overview of the different subordinate clause types in Polish.
+
+3. 'Have' perfect
+-----------------
+"The past-tense forms of both aspects show traces of their origin as a compound tense consisting of auxiliary verb plus *l*-participle [...]." (Rothstein, 1993: 711).
+
+4. Participial passive
+----------------------
+"**Passive construtions** are formed with both perfective and imperfective transitive verbs by combining the passive participle with an auxiliary [...]." (Rothstein, 1993: 713). 
+
+5. Dative external possessors
+-----------------------------
+"Inalienable possessions (and some others) permit the use of a dative noun or pronoun to specify it." (ROthstein, 1993: 747).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+While not explcitly stated in the source, it appears that negative pronouns accompany verbal negation in Polish. 
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1499-1500) states that Slavic languages possess relative-based equative constructions, although no evidence or examples of them were found in the source consulted.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Several example sentences are given in which the subject personal pronoun has been omitted (see, e.g., Rothstein, 1993: 743).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"Reflexivity is expressed by forms of the reflexive pronoun (siebie*), the reflexive possessive adjective (*swój*) and the emphatic pronoun (*sam*). The first of these two can also express reciprocity." (Rothstein, 1993: 744).
+
+Source:
+- Rothstein, Robert A. 1993. Polish. In: Bernard Comrie and Greville G. Corbett (eds.), The Slavonic Languages, London: Routledge.

@@ -1,0 +1,41 @@
+Finnish
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of a definite or indefinite article in Finnish.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"The relative clause in Finnish begins with the relative word (a pronoun, adverb or adjective), which is generally a form or derivative of the stem jo / ke / ku / mi. The particle kA (joka, kuka, 'that, which, who', mikä 'that, which') is attached directly to the stem in the nominative form of the pronoun. [...] The choice of relative word is determined partly by semantic considerations, and partly by the rules of the standard language [...]." (Sulkala & Karjalainen, 1992: 40).
+	
+3. 'Have' perfect
+-----------------
+"The perfect is formed with the verb olla ['to be'] in the present tense + the main verb in the singular or plural form of the past participle according to the number of the subject." (Sulkala & Karjalainen, 1992: 300).
+
+4. Participial passive
+----------------------
+"It is not possible to speak about a passive voice in Finnish in the same sense as the English passive for example, because it is the word order that mainly reliazes the thematic structure of the clause in Finnish. [...] The passive has the following forms: 1) verbs with the passive marker (t)tA and the personal ending Vn [...], 2) verbs formed with the third person singular of olla 'be' and the past (second) participle [passive], [...]." (Sulkala & Karjalainen, 1992: 288). Formally this second type looks similar to the SAE type, but syntactially the argument structre remains the same in Finnish wheras it does not in SAE.
+
+5. Dative external possessors
+-----------------------------
+It is not clear from the source consulted whether Finnish possesses DEPs or not, although Haspelmath (2001: 1498) clearly states that the the locative is used instead of the dative to express external possession.
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+In clauses with negative adverbials such as *kukaan* 'nobody, no one', the verbal negator is also required. (Sulkala & Karjalainen, 1992: 117).
+
+7. Relative-based equative constructions
+----------------------------------------
+Equative constructions can be formed by (i) the equative element *yhtä* 'as' or *niin* 'so' preceding the parameter of comparison (adjective or adverb) and the comparative conjunction *kuin* 'as/than' introducing the standard of comparison, and (ii) an adjective indicating measure (length, breadth, etc) inflected with the equative deriviative suffix *Uinen*, preceded by a standard of comparison in the genitive case.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"The pronouns of the first and second person are usually optional when funcitoning in an independent statement, because the person is indicated by the form of the verb. [...] The third person singular can sometimes be omitted, especially in the spoken langauge [...]." (Sulkala & Karjalainen, 1992: 272).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"The [reflexive] pronoun itse also has other uses. Its emphatic use, for example, is no longer always connected with reflexivity, and the possessive suffix is not usually attached to it in such instances." (Sulkala & Karjalainen, 1992: 279).
+
+Sources:
+- Sulkala, Helena & Karjalainen, Merja. 1992. Finnish, London: Routledge.

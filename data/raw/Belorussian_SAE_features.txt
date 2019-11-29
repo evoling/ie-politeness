@@ -1,0 +1,41 @@
+Belorussian
+===========
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of either a definite or indefinite article in the source consulted. Since articles are absent from East Slavic languages (Haspelmath, 2001: 1494), it is fair to assume that this lack of evidence points to a lack in the language.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"[...] Belorussian has the relative pronoun jaki 'which' to act as a conjunctive, and in doing so to show agreement in number and gender with its antecedent head, it also makes substantial use of što 'that' with an antecedent of any gender or either number. [...] Since što used in this way is neutral as to number and gender, it is found only as subject or direct object in the subordinate clause; verbal agreement is according to the features of the antecedent head." (Mayo, 1993: 929).
+
+3. 'Have' perfect
+-----------------
+"[...] the pefect has evolved, through the loss of the copula 'be', from an original participial form into a simple verb form which covers all past meaning." (Mayo, 1993: 913).
+
+4. Participial passive
+----------------------
+The passive voice divides along aspectual lines, with the reflexive-passive being used for imperfective verb forms and the auxiliary 'to be' plus past passive participal for perfectives. (Mayo, 1993: 917).
+
+5. Dative external possessors
+-----------------------------
+The dative case is used to express possession in certain verb phrases involving parts of the body, e.g. 'he squeezed my hand' (lit. 'he squeezed to me hand') and also in noun phrases where both possessor and possessed are personal forms, e.g. 'you are my enemy' (lit. 'you enemy to me'). (Mayo, 1993: 935).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Sentence negation is expressed by the negative particle *ne*, placed directly before the verb. Other negaive elements (ornouns, adverbs) must also be accompanied by *ne*. (Mayo, 1993: 932).
+
+7. Relative-based equative constructions
+----------------------------------------
+No concrete evidence in the source consulted, but Haspelmath (2001: 1499) states that the SAE type is found across Slavic languages, so should be present in Belorussian.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+In standard Belorussian the subject pronoun is only ususally omitted in coordinated clauses (with or without an exoressed coordinator) or in subordinate clauses with a clear subject-nominative antecedent. In more colloquial style, however, it may be extended to other types of sentence, including one-word sentences, provided there is no contextual ambiguity. (Mayo, 1993: 933-934).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"Reflexive verbs in Belorussian (and East Slavonic as a whole) are really a refinement of the construction 'verb + accusative reflexive pronoun', brought about by the agglutination of the clitic form of that pronoun with the verb. For emphasis, though, one may still use the unagglutinated structure 'verb + (non-clitic) accusative reflexive pronoun'." (Mayo, 1993: 934). Thus a distinction is discernible between reflexive clitic *sja* and emphatic *sjabe*.
+
+Source:
+- Mayo, Peter. 1993. Belorussian. In: Bernard Comrie and Greville G. Corbett (eds.), 'The Slavonic Languages', London: Routledge. 

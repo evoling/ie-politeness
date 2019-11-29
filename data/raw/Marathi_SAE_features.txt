@@ -1,0 +1,41 @@
+Marathi
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+"The category of articles is absent in Marathi." (Dhongde & Wali, 2009: 39).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Marathi possesses correlative rather than relative clauses, whereby a pair of clauses contain relative and correlative elements in mutual relationship. (Dhongde & Wali, 2009: 209).
+
+3. 'Have' perfect
+-----------------
+The present perfect is formed by the perfective marker *l* suffixed to the main verb (but preceding the person-number-gender suffix) and the appropriate present form of the auxiliary 'to be'.
+
+4. Participial passive
+----------------------
+"The standard passive is formed with the perfective verbs followed by the auxiliary *ja* 'to go'. The original logical subject is marked by the postposition *kədun* 'by' showing its demoted status." (Dhongde & Wali, 2009: 188). 
+
+5. Dative external possessors
+-----------------------------
+Unclear from the source consulted, but it is likely that Marathi does not have DEPs (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+In fact, the situation in Marathi is the reverse of the NI+(N)V type in Haspelmath (2001: 1498-1499), since the language does not possess negative adverbs such as 'no one, nowhere, nobody', etc. (Dhongde & Wali, 2009: 250).
+
+7. Relative-based equative constructions
+----------------------------------------
+"Finite equative clauses use the correlative pattern to express quantity, degree, kind, quality *-jitke-titke* 'as many/as much, same, kind'. Non-finite equatives employ the particles *itka/itki/itkə* 'as much, M, F, N' [...] or *sarkha, sarkhi, sarkhə* 'similar, M, F, N' [...]. All equative connectors inflect for gender and number of the noun they qualify." (Dhongde & Wali, 2009: 226).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Personal pronouns are often dropped in a discourse context." (Dhongde & Wali, 2009: 270).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"There are two reflexive forms: *swətəha* and *apən*. Both forms inflect for case and postpositions. They do not vary for number or gender." (Dhongde & Wali, 2009: 50). "The basic emphatic reflexive is *swətah*, with alternatives such as *khuddə, khuddə swədah, jatine, swətah jatine, prəatyəkshə, sakšat*, all glossed as 'personally'. (DHongde & Wali, 2009: 267).
+
+Source:
+- Dhongde, Ramesh Vaman & Wali, Kashi. 2009. Marathi, Amsterdam: John Benjamins.

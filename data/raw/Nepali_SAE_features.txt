@@ -1,0 +1,42 @@
+Nepali
+======
+
+1. Definite and indefinite articles
+-----------------------------------
+"In Nepali, there are no definite or indefinite articles." (Riccardi, 2003: 554).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+While Nepali possesses a full inventory of relative and correlative pronouns, it shows a marked preference for relativisation through adjectival phrases. (Riccardi, 2003: 575-576).
+
+3. 'Have' perfect
+-----------------
+The perfect tense is formed by the addition of the perfect suffixes directly to the root. It is used to refer to actions completed in the past. (Riccardi, 2003: 565).
+
+4. Participial passive
+----------------------
+"The infixes *ĩ-/-i-* may be added to the root to make stems which are passive or impersonal in meaning. These appear almost always in the third person singular among finite forms, and in all non-finite forms [...]." (Riccardi, 2003: 569).
+
+5. Dative external possessors
+-----------------------------
+Postpositions indicate possession, and in the written language often mark gender and/or number of the person possessed. (Riccardi, 2003: 557).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The negation of verbs in Nepali is peculiarly complex morphologically. In the case of the non-finite forms and the imperative mode, its formation of the negative is simple: the negative particle *nə* is prefixed to the verb. iI the case of most finite forms, however, the negative is infixed, resulting in complex combinations in all tenses." (Riccardi, 2003: 563).
+
+7. Relative-based equative constructions
+----------------------------------------
+Not clear from the sources consulted, however Haspelmath (2001: 1500) states that "relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general [...]." It is quite likely, therefore, that Nepali does not possess them.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Verbal suffixes "serve to distinguish one form of a particular Verb from other forms of the same Verb." (Clark, 1963: 74).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Nepali does not seem to possess reflexive pronouns. 
+
+Source:
+- Riccardi, Theodore. 2003. Nepali. In: George Cardona & Dhanesh Jain (eds.), 'The Indo-Aryan Languages', London: Routledge.
+- Clark, T.W. 1963. Introduction to Nepali. Cambridge: Heffers.

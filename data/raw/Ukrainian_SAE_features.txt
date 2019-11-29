@@ -1,0 +1,41 @@
+Ukrainian
+=========
+
+1. Definite and indefinite articles
+-----------------------------------
+"The lack of overt definite/indefinite articles in Ukrainian ('a' and 'the' in English) does not mean that such differentiation cannot be made; indeed placement of the subject (nominative element) first or last in an utterance makes this possible." (Pugh & Press, 1999: 93).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+The relative pronouns 'what', 'who', 'whose' etc function in a seemingly canonical SAE manner. For more detail see Pugh & Press (1999: 178-181).
+
+3. 'Have' perfect
+-----------------
+No such construction exists in Ukrainian; past actions are expressed through a simple past. See Pugh & Press (1999: 225-227) for an overview of the formation of this tense.
+
+4. Participial passive
+----------------------
+"There are three wayas of expressing passive actions in Ukrainian: (1) by means of the past passive participle, (2) the particle -ся, and (3) the *3pl* form of the verb." (Pugh & Press, 1999: 250).
+
+5. Dative external possessors
+-----------------------------
+This seems to be referred to as the 'ethic dative' by Pugh & Press (1999: 101-102), and is found in sentences such as 'Asya placed her hand on her brother's shoulder' (Pugh & Press, 1999: 102).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+The negative particle *ne* precedes the main verb and follows the negative adverb (see Pugh & Press, 1999: 186-187).
+
+7. Relative-based equative constructions
+----------------------------------------
+The expression стільки...скільки 'as...as' is formed with 'quantitative' adverbs, or 'adverbs of degree' (Pugh & Press, 1999: 279-280).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Though there is a certain amount of variation, it is possible to generalise that the nominative case forms of the personal pronouns are normally actually expressed, even though the verbal non-past endings make it absolutely clear, of only for the first- and second-persons singular, who the subject is. [...] In informal speech these pronouns are more readily dropped, and in any event would certainly be dropped in a string of verbs with an identical subject, [...]." (Pugh & Press, 1999: 173-174).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+To express the reflexive, we find cебе 'self', the particle -ся/-сь (which is attached to the verb), as well as reciprocals (Pugh & Press, 1999: 175-176). The term 'self' seems to indicate an emphatic function, whereas the particles convey reflexive-only meaning, however this needs to be verified.
+
+Source: 
+- Pugh, Stefan M. & Press, Ian. 1999. Ukrainian: A Comprehensive Grammar, London: Routledge.

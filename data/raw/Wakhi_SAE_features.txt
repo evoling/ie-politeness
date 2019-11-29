@@ -1,0 +1,41 @@
+Wakhi
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+"Non-specific indefinite noun phrases are unmarked. Specific, referential indefinites are usually marked by *(y)i(w)* 'a, one', which may precede the noun or follow as an enclitic [...]. Definiteness may be marked by the far demonstrative, which often loses its deictic force and functions as a definite article." (Bashir, 2009: 841).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Relative clauses are constructed in various ways, although all are different, in varying degrees, to the canonical SAE type. Usually a demonstrative co-occurs with the relative noun in the matrix clause, and a resumptive pronoun is also required - this second point is also true of the generic relativiser strategy. (Bashir, 2009: 850).
+
+3. 'Have' perfect
+-----------------
+The perfect consists of the perfect stem plus the pronominal clitics. Its basic indicative function is resultative-stative, from which have developed inferential and mirative senses (Bashir, 2009: 839).
+
+4. Participial passive
+----------------------
+"There is no morphological *voice* opposition in Wakhi; an action with an unspecified agent is expressed with a 3rd person plural verbal ending [...]." (Bashir, 2009: 833).
+
+5. Dative external possessors
+-----------------------------
+No evidence to suggest the presence or absence of this feature in Wakhi in the source consulted, however it is likely not to be present given its absence from closely related langauges such as Persian and Balochi (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Not clear from the source consulted. However Haspelmath (2001: 1498-1499) states that the NV + NI type is typical of the eastern Indo-European languages (Iranian and Indic).
+
+7. Relative-based equative constructions
+----------------------------------------
+There is no evidence to suggest that such a construction exists in Wakhi from the source consulted, and Haspelmath (2001: 1500) also states that "the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)."
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Person and number are marked by personal endings in the present-future. Pronominal clitics mark the subject in all past and perfect tenses of both transitive and intransitive verbs. [...] Except for the 3s, which is optional and cannot attach to the verb, the pronominal clitics may attach to any constituent in the sentence." (Bashir, 2009: 835). The four indicative tense forms of the existential verb 'to be' are not marked for person or number, which are indicated by pronominal clitics. (idem.). Initial impressions are that subject pronouns are preferably present, however.
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+The reflexive pronoun *xat* 'self' also functions as an emphatic. (Bashir, 2009: 831).
+
+Source:
+- Bashir, Elena. 2009. Wakhi. In: Gernot Windfuhr (ed.), 'The Indo-Iranian Languages', London: Routledge. 

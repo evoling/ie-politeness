@@ -1,0 +1,43 @@
+Rumanian
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+The definite article is enclitic whereas the indefinite article is still an independent lexeme, occurring before its head noun (Davies, 2007: 34-37).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Resumptive pronouns are found obligatarily in relative clauses (Mallinson, 1988: 409-410).
+
+3. 'Have' perfect
+-----------------
+In some areas of Daco-Rumanian (particularly Oltenia) a simple perfect is used (< Latin CANTAVI) but the standard language uses a periphrastic past (Mallinson, 1988: 407).
+
+4. Participial passive
+----------------------
+The analytical passive has become the dominant means of expressing the passive voice since its spread during the nineteenth century under French influence (Mallinson, 1990: 268).
+
+5. Dative external possessors
+-----------------------------
+The dative of possession exists in Rumanian (see, e.g., Mallinson, 1990: 156).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+When the verb complex is present in a phrase, the negative (verb) marker *nu* is required, together with the negative adverb (Mallinson, 1986: 137-138).
+
+7. Relative-based equative constructions
+----------------------------------------
+The marker *ca* introduces the standard of comparison and *la fel de* (lit. 'at manner of') or *şi* introduce the parameter of comparison (Mallinson, 1086: 175).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Rumanian often drops subject pronouns, there being adequate variation in verb forms to make them redundant (Mallinson, 1988: 410).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Free reflexives are used for emphasis; they pattern like direct and indirect object pronouns in that they occur with, not instead of, the clitics (such as the reflexive) (Mallinson, 1986: 151-152).
+
+Sources: 
+- Gönczöl-Davies, Ramona. 2007. Romanian: An Essential Grammar, Oxford: Routledge.
+- Mallinson, Graham. 1988. Rumanian in Martin Harris & Nigel Vincent (eds.) 'The Romance Languages', London: Routledge. 
+- Mallinson, Graham. 1990. Rumanian, Beckenham: Croon Helm.

@@ -1,0 +1,43 @@
+Hindi
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+There are no definite or indefinite articles in Hindi. A noun acting as subject or direct object in its sentence is definite rather than indefinite; but depending on its context the word मकान ‘house' may have as its translation equivalent ‘a house' or ‘the house' or ‘houses' or ‘the houses'. The word एक ‘one' can be used before nouns with the force of an indefinite article where explicitness is required. (Virtual Hindi, lesson 1).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"In complex sentences involving subordination, it is possible for the dependent clause to precede or follow the independent clause. This is quite evident in complex sentences involving relative clauses [...]." (Shapiro, 2003: 272). the complementiser *ki* (a borrowing from Persian) can be used to introduce a clause representing a propositional predicate of saying, thinking, reading, understanding, etc. (idem).
+
+3. 'Have' perfect
+-----------------
+The present perfect is synthetic in nature (Virtual Hindi).
+
+4. Participial passive
+----------------------
+"The passive voice is marked by the passive auxiliary *ja*, which follows the past participial form of the main verb. The element *ja* carries the person, number and gender agreement markers [...]." (Kachru, 2006: 93).
+
+5. Dative external possessors
+-----------------------------
+Possession and case are marked by postpositions, but not the dative. However, but Haspelmath states that "[...] there are languages which do not have external possessors at all. The eastern Indo-European languages Kurdish, Persian and Hindi/Urdu belong to this type." (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+According to Haspelmath (2001: 1498-1499), eastern Indo-European languages (i.e. Iranian and Indic) possess the NV+NI type of negation, although no supporting evidence for this can be found in the sources listed below.
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1500) states that "Impressionistically, relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." Supporting evidence has not been found in the sources consulted, however.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Since subject pronouns confer notions of person, number and politeness, the literature seems to indicate (implicitly) that they are required in spoken and written discourse. The verbs also agree for person and number. 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No differentiation according to Haspelmath (2001: 1501). No supporting data found in the sources below.
+
+Sources:
+- Shapiro, Michael C. 2003. Hindi, in George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge.
+- Kachru, Yamuna. 2006. Hindi, Amsterdam: John Benjamins.
+- New York University. 2005. Virtual Hindi (http://www.nyu.edu/gsas/dept/mideast/hindi/).

@@ -1,0 +1,41 @@
+Assamese
+========
+
+1. Definite and indefinite articles
+-----------------------------------
+"Asamiya has a set of definitive morphemes that are suffixed to nominals, numerals and demonstrative pronouns of the language. These definitives serve to identify the status of the referent of the resulting expression in discourse." They are essentially numeral classifiers as theu impose a classification on the nouns, demonstrative pronouns etc based on semantic features based on animacy, shape, size, respect-gradation, etc. (Goswami & Tamuli, 2003: 416-417).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+Relative pronouns differ for human and non-human referents. They are also different from the interrogative pronouns (Goswami & Tamuli, 2003: 421).
+
+3. 'Have' perfect
+-----------------
+The perfective aspect is co-expressed in simple past stems, e.g. *likh-il-* 'write-past' (Goswami & Tamuli, 2003: 422).
+
+4. Participial passive
+----------------------
+The passive appears to be formed using a nominalised verb (courtesy of the denominative suffix *-a*) and a conjugated form of the verb 'to be' (Goswami & Tamuli, 2003: 423).
+
+5. Dative external possessors
+-----------------------------
+Unclear from the source consulted. Case is marked on the noun or pronoun by means of inflections.	
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"The distinct forms of affirmative and negative third person indefinite pronouns in Asamiya [...] occur in affirmative and negative sentences [...]." (Goswami & Tamuli, 2003: 437).
+
+7. Relative-based equative constructions
+----------------------------------------
+Haspelmath (2001: 1500) states that "Impressionistically, relative-based equatives seem to be rare in the world's languages, and the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)." Supporting evidence has not been found in the source consulted, however.
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+Since personal pronouns are governed by "an elaborate set of sociolinguistic norms such as age, social and educaitonal status, role-relationship, etc" (Goswami & Tamuli, 2003: 420), it is highly unlikely that they can be omitted. 
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+No differentiation according to Haspelmath (2001: 1501). No supporting data found in the source consulted, however.
+
+Source:
+- Goswami, G.C. & Jyotiprakash Tamuli. 2003. Asamiya, in George Cardona & Dhanesh Jain (eds.) 'The Indo-Aryan Languages', London: Routledge. 

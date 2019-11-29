@@ -1,0 +1,42 @@
+Czech
+=====
+
+1. Definite and indefinite articles
+-----------------------------------
+There is no evidence of either a definite or indefinite article in the source consulted. Since articles are absent from West Slavic languages (Haspelmath, 2001: 1494), it is fair to assume that this lack of evidence points to a lack in the language.
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Simple 'that'-subordination is expressed by the conjunction *že*, which, like all subordinating conjunctions, must be preceded by a comma [...]." (Short, 1993: 504). 
+
+3. 'Have' perfect
+-----------------
+Contrary to what is stated in Haspelmath (2001: 1495), no evidence can be found in the sources consulted of a 'have' perfect in Czech. "The past consists, for both aspects, of the '*l*-participle' with auxiliaries (present-tense forms of *být* 'be')." (Short, 1993: 481). This auxiliary is cliticised to the main verb and can be reduced in form. (Janda & Townsend, 2000: 33).
+
+4. Participial passive
+----------------------
+"There are two forms of passive: (1) using a passive participal (in the short form) of a transitive verb with *byt* as auxiliary [...]; (2) using a reflexive transformation: [...] here the agent is suppressed completely. (Short, 1993: 485). 
+
+5. Dative external possessors
+-----------------------------
+It isn't clear from the sources consulted, however Haspelmath states that "external possessors in the dative [are] found in Romance, Continental West Germanic, Balto-Slavic, Hungarian and Balkan languages [...]." (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+"With total negation, negative elements accumulate; any negative subject or object pronoun or pronoun-adverb is reinforced by *ne-* in the verb [...]." (Short, 1993: 511).
+
+7. Relative-based equative constructions
+----------------------------------------
+Czech possesses a typical SAE construction: *tak Z jako X* (Haspelmath, 2001: 1499). No further examples were found in the sources consulted, however. 
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Under emphasis the [subject] pronoun appears, without emphasis it will normally be absent [...]. However, colloquial registers show an almost consistent tendency for subject pronouns to be inserted, at least in main clauses." (Short, 1993: 470).	
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+Reflexivity is expressed primarily by the free morpheme *se*, while emphasis is expressed by the intensifier *sam*. (Short, 1993: 514).
+
+Source:
+- Short, David. 1993. Czech. In: Bernard Comrie and Greville G. Corbett (eds.), 'The Slavonic Languages', London: Routledge. 
+- Janda, Laura A. & Charles E. Townsend. 2000. Czech, Munich: Lincom Europa.

@@ -1,0 +1,42 @@
+Balochi
+=======
+
+1. Definite and indefinite articles
+-----------------------------------
+"There is no definite article in Balochi. The term 'indefinite article' has been used for the suffix *-ē*, whose main function is to mark an indefinite specific form in the singular. Except for its function of marking antecedents of restrictive relative clauses [...], it is not used with plural nouns in Balochi. So *-ē* might be better termed 'singularity marker' or 'individuation marker' [...]." (Jahani & Korn, 2009: 667).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+"Subordination closely follows the basic pattern of Persian, and several conjunctions have been borrowed from neighbouring langauges [...]. Subordinate clauses sometimes precede and sometimes follow the matrix clause, into which they can also be embedded. The particl *ki* serves as a general subordinator.: it introduces complement and relative clauses as well as quoted speech." (Jahani & Korn, 2009: 678-679). "The subordinator *ki* also introduces relative clauses." (Jahani & Korn, 2009: 680). It is thus a generic subordinator and not a relative pronoun per se.
+
+3. 'Have' perfect
+-----------------
+"The present perfect uses the perfect participle with the present copula, but omitting the copula in the 3s [...]." (Jahani & Korn, 2009: 664).
+
+4. Participial passive
+----------------------
+The passive is constructed by the past participle or the infinitive with *bay-* 'become' as the auxiliary, although it is not frequently used and is rare with an explicit agent (Jahani & Korn, 2009: 662-663). 
+
+5. Dative external possessors
+-----------------------------
+No evidence to suggest the presence or absence of this feature in Balochi in the source consulted, however it is likely not to be present given its absence from closely related langauges such as Persian (Haspelmath, 2001: 1498).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Not clear from the source consulted. However Haspelmath (2001: 1498-1499) states that the NV + NI type is typical of the eastern Indo-European languages (Iranian and Indic).
+
+7. Relative-based equative constructions
+----------------------------------------
+There is no evidence in Jahani & Korn (2009) to suggest that such a construction exists in Balochi, and Haspelmath (2001: 1500) also states that "the eastern Indo-European languages do not seem to use them in general (however, a counterexample is Punjabi)."
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"In nominative constructions, the subject is in the direct case, which has a zero suffix in both the singular and plural [...]." (Jahani & Korn, 2009: 669).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+"The pronoun *wat* 'self' is used as a reflexive pronoun for functions entirely parallel to that of Persian *xod* (both < * *hwat-*). (Jahani & Korn, 2009: 655). The pronoun *xod/xud* in Persoan is used possessively, 'own', reflexively, 'self', and emphatically, '-self' (Windfuhr & Perry. 2009: 436)
+
+Source:
+- Jahani, Carina & Korn, Agnes. 2009. Baluchi. In: Gernot Windfuhr (ed.), 'The Indo-Iranian Languages', London: Routledge. 
+- Windfuhr, Gernot & Perry, John R. 2009. Persian and Tajik. In: Gernot Windfuhr (ed.), 'The Indo-Iranian Languages', London: Routledge.

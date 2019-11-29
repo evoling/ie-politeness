@@ -1,0 +1,44 @@
+Lithuanian
+==========
+
+1. Definite and indefinite articles
+-----------------------------------
+There are no articles in Lithuanian. (Haspelmath, 2001: 1494).
+
+2. Relative clauses with relative pronouns
+------------------------------------------
+The relative pronouns kàs 'what, who', kóks, -ià 'what', -ì 'which', katràs, -à 'which (of the two)', kelì, kĕlios and kelerì, kĕlerios 'how many (of several)' and keliñtas, -à 'which (in number)' are included in the structure of a subordinate clause and can function as:
+- the subject of a subordinate clause
+- an object
+- a predicative
+- an attribute
+
+The relative adverbs kadà 'when', kuomèt 'when', kaĩp 'how', kíek 'how much'. kuř 'where' and kodĕl 'why', used to subordinate clauses in the form of an indirect question, function as adverbials within this clause type. (Ambrazas (ed.), 1997: 722).
+
+3. 'Have' perfect
+-----------------
+Compound tenses, including the perfect, are expressed by a present or past participle (active or passive) of the notional verb with the finite form of the auxiliary búti 'to be'. (Ambrazas (ed.), 1997: 220).
+
+4. Participial passive
+----------------------
+Lithuanian possesses a canonical SAE-type participial passive, being formed from the verb to be + passive participles, which vary according to tense (Ambrazas (ed.), 1997: 2273-276).
+
+5. Dative external possessors
+-----------------------------
+The dative case governed by verbs with another obligatory constituent has a possessive meaning in combinations such as 'he kissed (his) mother's hand' or 'Grandfather's foot aches' (lit. 'to grandfather the foot is hurting'). (Ambrazas (ed.), 1999: 508).
+
+6. Negative pronouns and lack of verbal negation
+------------------------------------------------
+Negative pronouns combine with a negativised verb form to indicate imple predicative negation of the type 'nobody knows' which, in Lithuanian is expressed lit. as 'nobody not-knows' (Ambrazas (ed.), 1997: 206).
+
+7. Relative-based equative constructions
+----------------------------------------
+Adverbial comparative phrases can be preceded by the correlative words taĩp 'so' and taip pàt 'as' (Ambrazas (ed.), 1997: 680). The preposition sulìg 'up to' (= 'equally') can also indicate a standard of comparison, in expressions such as mĕdis sulìg namù 'a tree as tall as the house' (Ambrazas (ed.), 1997: 420).
+
+8. Subject person affixes as strict agreement markers
+-----------------------------------------------------
+"Subject pronouns [...] have an optional character; they are needed mainly for contrast of person or for emphasis" (Ambrazasa (ed.), 1997: 189).
+
+9. Intensifier-reflexive differentiation
+----------------------------------------
+A personal pronoun with an intensifying or specifying function - pàts 'oneself' does exist, as in aš pàts skubéjau išeĭti 'I myself was in a hurry to leave' (Ambrazas (ed.), 1997: 477). A cluster of two pronouns such as this can be replaced by just one, in this case patí. This form is different to the reflexive pronouns, however (Ambrazas (ed.), 1997: 191-192).
