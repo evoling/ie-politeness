@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vim
+.backup/
+
+# dev
+old-files/
+.Rproj.user
