@@ -1,82 +1,78 @@
-languages	beast.label	ielex.label	bellamy.label	iso.code	latitude	longitude	ancient
-Icelandic_ST	Icelandic_ST	Icelandic_ST	Icelandic St	isl	63.48375	-19.02117	0
-Irish_A	Irish_A	Irish_A	Irish B	gle	53.39763	-9.34731	0
-Portuguese_ST	Portuguese_ST	Portuguese_ST	Portuguese St	por	39.44108	-7.83932	0
-Faroese	Faroese	Faroese	Faroese	fao	62.07316	-6.88497	0
-Scots_Gaelic	Scots_Gaelic	Scots_Gaelic	Gaelic (Scots)	gla	56.75735	-5.24366	0
-Welsh_N	Welsh_N	Welsh_N	Welsh N	cym	51.97481	-4.22094	0
-Cornish	Cornish	Cornish	Cornish	cor	50.52332	-4.18619	0
-Breton_ST	Breton_ST	Breton_ST	Breton St	bre	48.24523	-3.78934	0
-Spanish	Spanish	Spanish	Spanish	spa	40.0288	-2.98782	0
-English	English_ST	English	English	eng	53.27692	-2.23831	0
-Old_English	Old_English	Old_English	Old English	ang	51	-1.3	1
-Catalan	Catalan	Catalan	Catalan	cat	41.91647	1.23027	0
-French	French	French	French	fra	46.77921	1.71931	0
-Walloon	Walloon	Walloon	Walloon	wln	50.22351	5.14509	0
-Flemish	Flemish	Flemish	Flemish	vls	51.22	4.4	0
-Dutch_List	Dutch_List	Dutch_List	Dutch List	nld	51.77029	5.332	0
-Luxembourgish	Luxembourgish	Luxembourgish	Lëtzebuergesch	ltz	49.77295	6.13151	0
-Frisian	Frisian	Frisian	Frisian	frs	52.97134	7.73549	0
-Sardinian_C	Sardinian_C	Sardinian_C	Sardinian Campidanese	sro	39.05656	9.03935	0
-Sardinian_L	Sardinian_L	Sardinian_L	Sardinian Logudorese	src	40.49001	9.09957	0
-Sardinian_N	Sardinian_N	Sardinian_N	Sardinian Gallurese	sdn	41	9.5	0
-Danish	Danish	Danish	Danish	dan	54.9485	9.51882	0
-Norwegian	Riksmal	Norwegian	Bokmål (Norwegian)	nor	60	10	0
-German_Munich	German_ST	German	German St	deu	47.45546	10.45276	0
-Ladin	Ladin	Ladin	Ladin (Fassa dialect)	lld	46.4	11.7	0
-Latin	Latin	Latin	Latin	lat	41.90264	12.45021	1
-Old_Norse	Old_Norse	Old_Norse	Old Norse	non	60	13	1
-Friulian	Friulian	Friulian	Friulian	fur	46.14732	13.04927	0
-Lower_Sorbian	Lusatian_L	Lusatian_L	Lusatian L	dsb	51.66213	13.9407	0
-Upper_Sorbian	Lusatian_U	Lusatian_U	Lusatian U	hsb	51.24031	14.40984	0
-Old_Prussian	Old_Prussian	Old_Prussian	Old Prussian	prg	52.394	14.757	1
-Slovenian	Slovenian	Slovenian	Slovenian	slv	46.06541	14.97454	0
-Czech	Czech	Czech	Czech	ces	49.88641	15.37182	0
-Albanian_G	Albanian_K	Albanian_K	Arbërisht (Greci)	aae	38.9	16.7	0
-Swedish	Swedish_List	Swedish	Swedish List	swe	59.00805	17.615	0
-Serbocroatian	Serbocroatian	Serbocroatian	Serbocroatian B&H	bos	42.93308	17.67044	0
-Old_Church_Slavonic	Old_Church_Slavonic	Old_Church_Slavonic	Old Church Slavonic	chu	48.3	18.1	1
-Polish	Polish	Polish	Polish	pol	51.87823	19.13688	0
-Slovak	Slovak	Slovak	Slovak	slk	48.82175	19.66064	0
-Albanian_Standard	Albanian_Top	Albanian_Top	Albanian	als	39.84682	20.17993	0
-Macedonian	Macedonian	Macedonian	Macedonian	mkd	41.59591	21.74326	0
-Ancient_Greek	Ancient_Greek	Ancient_Greek	Ancient Greek	grc	39.8155	21.91293	1
-Greek_Mod	Greek_Mod	Greek_Mod	Greek Mod	ell	37.46921	23.32509	0
-Lithuanian_ST	Lithuanian_ST	Lithuanian_ST	Lithuanian St	lit	55.14291	23.96007	0
-Latvian	Latvian	Latvian	Latvian	lav	57.1435	24.60772	0
-Rumanian_List	Romanian_List	Rumanian_List	Rumanian List	ron	45.73279	24.97773	0
-Bulgarian	Bulgarian	Bulgarian	Bulgarian	bul	41.35608	25.48454	0
-Vlach	Vlach	Vlach	Vlax Romani	rmy	44	26	0
-Byelorussian	Byelorussian	Byelorussian	Byelorussian	bel	53.85719	27.97385	0
-Gothic	Gothic	Gothic	Gothic	got	46.9304	29.97861	1
-Ukrainian	Ukrainian	Ukrainian	Ukrainian	ukr	49.35573	31.16814	0
-Hittite	Hittite	Hittite	Hittite	hit	40	34	1
-Russian	Russian	Russian	Russian	rus	55.75	37.6	0
-Digor_Ossetic	Digor_Ossetic	Digor_Ossetic	Ossetic	oss	42.36164	44.07725	0
-Iron_Ossetic	Iron_Ossetic	Iron_Ossetic		oss	42.36164	44.07725	0
-Armenian_Mod	Armenian_Mod	Armenian_Mod	Armenian Mod	hye	40.40121	45.0399	0
-Persian	Persian_List	Persian	Persian	pes	30.5476	54.8362	0
-Pashto	Afghan	Afghan	Dari (Afghan)	prs	31.15621	62.14612	0
-Urdu	Urdu	Urdu	Urdu	urd	24.88813	67.05585	0
-Sindhi	Sindhi	Sindhi	Sindhi	snd	24.61278	68.45895	0
-Baluchi	Baluchi	Baluchi	Baluchi	bgp	28.80273	68.80377	0
-Waziri	Waziri	Waziri	Waziri	pst	31.9153	69.45294	0
-Tadzik	Tadzik	Tadzik	Tadzik	tgk	38.56749	69.81948	0
-Gujarati	Gujarati	Gujarati	Gujarati	guj	22.53507	71.40448	0
-Marwari	Marwari	Marwari	Marwari	rwr	26.72618	72.66615	0
-Lahnda	Lahnda	Lahnda	Panjabi St	lld	32.5	73.3	0
-Wakhi	Wakhi	Wakhi	Wakhi	wbl	36.83882	74.6663	0
-Kashmiri	Kashmiri	Kashmiri	Kashmiri	kas	33.99807	74.87589	0
-Marathi	Marathi	Marathi	Marathi	mar	17.93438	76.66649	0
-Hindi	Hindi	Hindi	Hindi	hin	23.13376	79.78701	0
-Singhalese	Singhalese	Singhalese	Singhalese	sin	6.3914	80.78983	0
-Vedic_Sanskrit	Vedic_Sanskrit	Vedic_Sanskrit	Vedic Sanskrit	san	25.38492	81.94673	1
-Kurdish	Kurdish	Kurdish	Kurdish	nep	29.00321	82.1326	0
-Nepali	Nepali_List	Nepali	Nepali	nep	29.00321	82.1326	0
-Tocharian_B	Tocharian_B	Tocharian_B	Tocharian B	txb	41.6	83	1
-Oriya	Oriya	Oriya	Oriya	ori	20.74235	84.65383	0
-Tocharian_A	Tocharian_A	Tocharian_A	Tocharian A	xto	42	86	1
-Bihari	Bihari	Bihari	Bihari	mai	26.09041	86.42743	0
-Bengali	Bengali	Bengali	Bengali	ben	21.82808	90.2203	0
-Assamese	Assamese	Assamese	Assamese	asm	26.25411	92.82779	0
-Italian	Italian	Italian	Italian	ita	41.9	12.5	0
+language	iso.code	latitude	longitude	ancient
+Icelandic	isl	63.48375	-19.02117	0
+Irish_A	gle	53.39763	-9.34731	0
+Portuguese	por	39.44108	-7.83932	0
+Faroese	fao	62.07316	-6.88497	0
+Scots_Gaelic	gla	56.75735	-5.24366	0
+Welsh_N	cym	51.97481	-4.22094	0
+Cornish	cor	50.52332	-4.18619	0
+Breton	bre	48.24523	-3.78934	0
+Spanish	spa	40.0288	-2.98782	0
+English	eng	53.27692	-2.23831	0
+Old_English	ang	51	-1.3	1
+Catalan	cat	41.91647	1.23027	0
+French	fra	46.77921	1.71931	0
+Walloon	wln	50.22351	5.14509	0
+Flemish	vls	51.22	4.4	0
+Dutch	nld	51.77029	5.332	0
+Luxemburgish	ltz	49.77295	6.13151	0
+Frisian	frs	52.97134	7.73549	0
+Sardinian_Campidanese	sro	39.05656	9.03935	0
+Sardinian_Logudorese	src	40.49001	9.09957	0
+Danish	dan	54.9485	9.51882	0
+Norwegian	nor	60	10	0
+German	deu	47.45546	10.45276	0
+Ladin	lld	46.4	11.7	0
+Latin	lat	41.90264	12.45021	1
+Old_Norse	non	60	13	1
+Friulian	fur	46.14732	13.04927	0
+Lower_Sorbian	dsb	51.66213	13.9407	0
+Upper_Sorbian	hsb	51.24031	14.40984	0
+Old_Prussian	prg	52.394	14.757	1
+Slovenian	slv	46.06541	14.97454	0
+Czech	ces	49.88641	15.37182	0
+Albanian_Gheg	aae	38.9	16.7	0
+Swedish	swe	59.00805	17.615	0
+Serbocroatian	bos	42.93308	17.67044	0
+Old_Church_Slavonic	chu	48.3	18.1	1
+Polish	pol	51.87823	19.13688	0
+Slovak	slk	48.82175	19.66064	0
+Albanian_Tosk	als	39.84682	20.17993	0
+Macedonian	mkd	41.59591	21.74326	0
+Ancient_Greek	grc	39.8155	21.91293	1
+Modern_Greek	ell	37.46921	23.32509	0
+Lithuanian	lit	55.14291	23.96007	0
+Latvian	lav	57.1435	24.60772	0
+Romanian	ron	45.73279	24.97773	0
+Bulgarian	bul	41.35608	25.48454	0
+Byelorussian	bel	53.85719	27.97385	0
+Gothic	got	46.9304	29.97861	1
+Ukrainian	ukr	49.35573	31.16814	0
+Hittite	hit	40	34	1
+Russian	rus	55.75	37.6	0
+Iron_Ossetic	oss	42.36164	44.07725	0
+Armenian	hye	40.40121	45.0399	0
+Persian	pes	30.5476	54.8362	0
+Pashto	prs	31.15621	62.14612	0
+Urdu	urd	24.88813	67.05585	0
+Sindhi	snd	24.61278	68.45895	0
+Baluchi	bgp	28.80273	68.80377	0
+Waziri	pst	31.9153	69.45294	0
+Tajik	tgk	38.56749	69.81948	0
+Gujarati	guj	22.53507	71.40448	0
+Marwari	rwr	26.72618	72.66615	0
+Wakhi	wbl	36.83882	74.6663	0
+Kashmiri	kas	33.99807	74.87589	0
+Marathi	mar	17.93438	76.66649	0
+Hindi	hin	23.13376	79.78701	0
+Sinhalese	sin	6.3914	80.78983	0
+Vedic_Sanskrit	san	25.38492	81.94673	1
+Kurdish	nep	35.65	45.81	0
+Nepali	nep	29.00321	82.1326	0
+Tocharian_B	txb	41.6	83	1
+Oriya	ori	20.74235	84.65383	0
+Tocharian_A	xto	42	86	1
+Maithili	mai	26.09041	86.42743	0
+Bengali	ben	21.82808	90.2203	0
+Assamese	asm	26.25411	92.82779	0
+Italian	ita	41.9	12.5	0
