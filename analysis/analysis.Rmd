@@ -15,12 +15,12 @@ Required data files
 - `dollo.mcc.tre` (a Maximum Clade Consistency tree summarising the tree sample, for reference only)
 - `language.metadata.csv` (ISO codes, geographic coordinates, and ancient/modern status)
 - `SAE-features.csv` (presence/absence of SAE areal features, coded from Haspelmath list)
-- `pronoun-paradigms.csv` (an etic grid showing the pronominal forms used for each pronominal function attested in the family)
+- `../data/pronoun-paradigms.csv` (an etic grid showing the pronominal forms used for each pronominal function attested in the family)
 
 Generated files:
 
-- `pronoun-similarity.csv` (a pairwise similarity table, generated from `pronoun-paradigms.csv` using the python script `make-pronoun-similarity-table.py`; for each language each pair of pronominal functions are rated 1/same pronoun or 0/different pronouns)
-- `pronoun-number-conflation.csv` (generated from `pronoun-paradigms.csv` with the script `make_pronoun_conflation_table.py`; does the language ever conflate singlular and plural for 2nd or 3rd person)
+- `pronoun-similarity.csv` (a pairwise similarity table, generated from `pronoun-paradigms.csv` using the python script `../data/make-pronoun-similarity-table.py`; for each language each pair of pronominal functions are rated 1/same pronoun or 0/different pronouns)
+- `pronoun-number-conflation.csv` (generated from `pronoun-paradigms.csv` with the script `../data/make_pronoun_conflation_table.py`; does the language ever conflate singlular and plural for 2nd or 3rd person)
 - `trees.rData` (saved intermediate results of this analysis)
 - `simmap.rData` (saved intermediate results of this analysis)
 - `results.rData` (saved results of this analysis)
@@ -55,7 +55,7 @@ plot(hclust(language.distance), cex=0.5)
 Prepare metadata 
 ```{r}
 metadata <- read_tsv("language-metadata.csv")
-sae.features <- read.delim("SAE-features_20200630.csv", row.names=1, na.string="NA")
+sae.features <- read.delim("SAE-features.csv", row.names=1, na.string="NA")
 sae.sum <- apply(sae.features, 1, sum, na.rm=TRUE)[metadata$language]
 metadata$sae.score <- sae.sum
 metadata$SAE <- sae.sum > 4

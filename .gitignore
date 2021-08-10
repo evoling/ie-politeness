@@ -5,5 +5,9 @@
 .backup/
 
 # Generated files
+*.rData
+analysis.pdf
 analysis.nb.html
 analysis_files/
+figures/*
+!figures/README.md
