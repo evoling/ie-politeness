@@ -1,2 +1,1 @@
-- `raw` the master copy of data, giving sources
-- `processed` data is transformed into a format suitable for analysis
+- Full rationale for SAE coding is stored in individual (by language) text files in the `raw` subdirectory
