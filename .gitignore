@@ -4,3 +4,6 @@
 # vim
 .backup/
 
+# Generated files
+analysis.nb.html
+analysis_files/
