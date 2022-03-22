@@ -1,6 +1,6 @@
 language	conflation
 Albanian_Gheg	1
-Albanian_Tosk	0
+Albanian_Tosk	1
 Ancient_Greek	0
 Armenian	0
 Assamese	0
@@ -34,17 +34,17 @@ Italian	0
 Kashmiri	1
 Kurdish	0
 Ladin	0
-Latin	0
+Latin	1
 Latvian	1
 Lithuanian	1
 Lower_Sorbian	1
 Luxemburgish	1
 Macedonian	1
 Marathi	1
-Marwari	0
+Marwari	1
 Nepali	1
 Norwegian	0
-Old_Church_Slavonic	0
+Old_Church_Slavonic	1
 Old_English	1
 Old_Norse	0
 Old_Prussian	0
@@ -72,7 +72,7 @@ Ukrainian	1
 Upper_Sorbian	1
 Urdu	1
 Vedic_Sanskrit	0
-Wakhi	0
+Wakhi	1
 Walloon	1
 Waziri	1
 Welsh_N	0

@@ -1,18 +1,18 @@
 ---
 title: "Indo-European Pronouns"
 output:
-  pdf_document: default
-  html_notebook: default
   html_document:
     df_print: paged
+  html_notebook: default
+  pdf_document: default
 ---
 
 This file contains all the source code to generate the figures and statistical measures reported in the paper **Evolution and Spread of Politeness Systems in Indo-European**
 
 Required data files
 
-- `dollo.combined.trees` (a sample of bayesian phylogenetic trees for the I-E language family)
-- `dollo.mcc.tre` (a Maximum Clade Consistency tree summarising the tree sample, for reference only)
+- `ie-v1.nex` (a sample of bayesian phylogenetic trees for the I-E language family; Dunn and Tresoldi 2021)
+- `ie-v1.mcc.tre` (a Maximum Clade Consistency tree summarising the tree sample, for reference only)
 - `language.metadata.csv` (ISO codes, geographic coordinates, and ancient/modern status)
 - `SAE-features.csv` (presence/absence of SAE areal features, coded from Haspelmath list)
 - `../data/pronoun-paradigms.csv` (an etic grid showing the pronominal forms used for each pronominal function attested in the family)
@@ -20,7 +20,8 @@ Required data files
 Generated files:
 
 - `pronoun-similarity.csv` (a pairwise similarity table, generated from `pronoun-paradigms.csv` using the python script `../data/make-pronoun-similarity-table.py`; for each language each pair of pronominal functions are rated 1/same pronoun or 0/different pronouns)
-- `pronoun-number-conflation.csv` (generated from `pronoun-paradigms.csv` with the script `../data/make_pronoun_conflation_table.py`; does the language ever conflate singlular and plural for 2nd or 3rd person)
+- `pronoun-number-conflation.csv` (generated from `pronoun-paradigms.csv` with the script `../data/make_pronoun_conflation_table.py`; does the language ever conflate singular and plural for 2nd or 3rd person)
+- `pronoun-distinct-politeness.csv` (generated from `pronoun-paradigms.csv` with the script `../data/make_pronoun_distinct_politeness_table.py`; does the language have distinct politeness forms in the 2sg and the 2pl?) 
 - `trees.rData` (saved intermediate results of this analysis)
 - `simmap.rData` (saved intermediate results of this analysis)
 - `results.rData` (saved results of this analysis)
@@ -28,7 +29,7 @@ Generated files:
 To regenerate the analysis cleanly you need to delete the three `.rData` files, otherwise saved values will be used. The `tree.sample.size` variable is set at 400, which is an acceptable value for the full test, but this is slow and it can be set to a lower value for testing.
 
 ```{r echo=TRUE}
-library(logisticPCA)
+#library(logisticPCA)
 library(ape)
 library(vegan)
 library(parallel)
@@ -37,6 +38,7 @@ library(rnaturalearth)
 library(tidyverse)
 library(ggrepel)
 library(gridExtra) # for grid.arrange
+options(ggrepel.max.overlaps = Inf)
 
 MC.CORES <- detectCores() # Use all available processing power
 cat(paste("--> Using", MC.CORES, "cores\n"))
@@ -55,7 +57,7 @@ plot(hclust(language.distance), cex=0.5)
 Prepare metadata 
 ```{r}
 metadata <- read_tsv("language-metadata.csv")
-sae.features <- read.delim("SAE-features.csv", row.names=1, na.string="NA")
+sae.features <- read.delim("SAE-features-83.csv", row.names=1, na.string="NA")
 sae.sum <- apply(sae.features, 1, sum, na.rm=TRUE)[metadata$language]
 metadata$sae.score <- sae.sum
 metadata$SAE <- sae.sum > 4
@@ -63,63 +65,54 @@ metadata
 #View(metadata)
 ```
 
-
-The pairwise similarity measures are summarised using Logistic PCA (designed for binary data) into two continuous components.
-
-```{r}
-#pairwise.similarity <- read.delim("pronoun-similarity.csv", row.names=1)
-logpca_cv = cv.lpca(pairwise.similarity, ks = 2, ms = 1:10)
-plot(logpca_cv)
-```
-```{r}
-which.min(logpca_cv)
-```
-
-
+Summarise data with PCA
 
 ```{r}
-logpca_model = logisticPCA(pairwise.similarity, k = 2, m = which.min(logpca_cv))
-#plot(logpca_model, type = "scores")
-logpca_model$PCs %>% 
+# temporary fix for missing values
+sae.features[is.na(sae.features)] <- 0
+
+pca_model <- prcomp(language.distance, scale=TRUE)$x %>% 
   as.data.frame() %>%
   mutate(language=rownames(.)) %>%
-  rename(PC1=V1, PC2=V2) %>%
   left_join(metadata) %>%
+  filter(!is.na(iso.code)) # rm non-IE languages
+pca_model %>%
  ggplot(aes(x=PC1, y=PC2, label=language, colour=SAE)) + 
- geom_point() + 
- scale_colour_manual(values=c("darkgray", "black")) +
- geom_text_repel(size=3, segment.size=0.25, segment.alpha=0.5, box.padding=0.1) +
- theme(legend.position = "none")
+  geom_point() + 
+  scale_colour_manual(values=c("darkgray", "black")) +
+  geom_text_repel(size=3, segment.size=0.25, segment.alpha=0.5, box.padding=0.1) +
+  theme(legend.position = "none")
 ```
 ```{r}
 ggsave("../figures/Figure_2_PCA.png", width=5.75, height=5.75, units="in")
 ggsave("../figures/Figure_2_PCA.pdf", width=5.75, height=5.75, units="in")
 ```
 
-
+Supplementary figure 1 shows that PC1 can be characterised as distinguishing languages which have person-number conflation, operationalised as the answer to the question *does the language ever conflate singular and plural for 2nd or 3rd person?*; this is calculated from the pronoun paradigm data in `pronoun-paradigms.csv` using the script `make_pronoun_conflation_table.py`. Languages with person-number conflation tend to be loaded negatively on PC1.
 ```{r}
-logpca_model$PCs %>% 
-  as.data.frame() %>%
-  mutate(language=rownames(.)) %>%
-  rename(PC1=V1, PC2=V2) %>%
+pca_model %>%
   left_join(read_tsv("pronoun-number-conflation.csv")) %>% 
-  #left_join(metadata) %>%
   ggplot(aes(x=PC1, y=PC2, label=language, colour=as.factor(conflation))) + 
-  geom_point() + #geom_point(aes(shape=SAE)) + 
+  geom_point() + 
   geom_text_repel(size=3, segment.size=0.25, segment.alpha=0.5, box.padding=0.1) +
   labs(colour="Conflated\nnumber")
 ```
+```{r}
+ggsave("../figures/Supplementary_Figure_1.pdf", width=5.75, height=5.75, units="in")
+```
 
+Supplementary figure 2 shows that PC2 distinguishes languages which have distinct politeness forms in the singular and plural (languages with distinct politeness forms in the singular and plural are weighted positively); note that while this is a distinctive feature of IE pronominal paradigms, it does not seem to be diagnostic of the SAE linguistic area. 
+```{r}
+pca_model %>% 
+  left_join(read_tsv("pronoun-distinct-politeness.csv")) %>% 
+  ggplot(aes(x=PC1, y=PC2, label=language, colour=as.factor(distinct))) + 
+  geom_point() + #geom_point(aes(shape=SAE)) + 
+  geom_text_repel(size=3, segment.size=0.25, segment.alpha=0.5, box.padding=0.1) +
+  labs(colour="Distinct\npoliteness")
+```
 
 ```{r}
-logpca_model$U %>% 
-  as_tibble() %>% 
-  mutate(features=names(pairwise.similarity)) %>% 
-  rename(PC1=V1, PC2=V2) %>%
-  mutate(magnitude=sqrt(PC1^2 + PC2^2)) %>%
-  ggplot(aes(x=PC1, y=PC2)) + 
-  geom_point() + 
-  geom_text_repel(aes(label=if_else(magnitude > 0.1, features, "")), size=3, segment.size=0.25, segment.alpha=0.5, box.padding=0.1)
+ggsave("../figures/Supplementary_Figure_2.pdf", width=5.75, height=5.75, units="in")
 ```
 
 ## Data transformation
@@ -129,56 +122,52 @@ Prepare the tree sample if the file `trees.rData` doesn't already exist (this is
 Sanity check: Load a reference tree, fix the tree labels, and plot it
 ```{r}
 all.languages <- metadata %>% pull(language)
-namehash <- c(
-        "Albanian_G"="Albanian_Gheg",
-        "Albanian_Standard"="Albanian_Tosk",
-        "Armenian_Mod"="Armenian",
-        "Breton_ST"="Breton",
-        "Bihari"="Maithili",
-        "Dutch_List"="Dutch",
-        "German_Munich"="German",
-        "Greek_Mod"="Modern_Greek",
-        "Icelandic_ST"="Icelandic",
-        "Lithuanian_ST"="Lithuanian",
-        "Luxembourgish"="Luxemburgish",
-        "Portuguese_ST"="Portuguese",
-        "Rumanian_List"="Romanian",
-        "Sardinian_C"="Sardinian_Campidanese",
-        "Sardinian_L"="Sardinian_Logudorese",
-        "Singhalese"="Sinhalese",
-        "Tadzik"="Tajik")
+namehash <- c( # convert tree names to names used in analysis or to proxy languages
+  # proxies are languages which are in the equivalent position in the tree
+  "Arvanitika"="Albanian_Gheg",
+  "Tosk"="Albanian_Tosk",
+  "Eastern_Armenian"="Armenian",
+  "Belarusian"="Byelorussian",
+  "Irish"="Irish_A",
+  "Digor_Ossetic"="Iron_Ossetic",
+  "Luxembourgish"="Luxemburgish",
+  "Bihari"="Maithili",
+  "Old_Church_Slavic"="Old_Church_Slavonic",
+  "Old_West_Norse"="Old_Norse",
+  "Cagliari"="Sardinian_Campidanese",
+  "Nuorese"="Sardinian_Logudorese",
+  "Serbian"="Serbocroatian",
+  "Singhalese"="Sinhalese",
+  "Welsh"="Welsh_N")
 
-read.nexus("dollo.mcc.tre")
-t <- read.nexus("dollo.mcc.tre")
-t$tip.label <- recode(t$tip.label, !!!namehash)
-dollo.mcc.tree <- ladderize(root(keep.tip(t, all.languages), "Hittite"))
-plot(dollo.mcc.tree, no.margin=TRUE, cex=0.6)
+mcc.tre <- read.nexus("ie-v1.mcc.tre")
+mcc.tre$tip.label <- recode(mcc.tre$tip.label, !!!namehash)
+mcc.tre <- ladderize(root(keep.tip(mcc.tre, all.languages), "Hittite"))
+plot(mcc.tre, no.margin=TRUE, cex=0.6)
 ```
 
 ```{r}
-logisticPC1 <- logpca_model$PCs[,1]
-logisticPC2 <- logpca_model$PCs[,2]
-
 states.pca <- data.frame(
-  PC1=round(logisticPC1,5), 
-  PC2=round(logisticPC2,5))
+  PC1=round(pca_model$PC1,5), 
+  PC2=round(pca_model$PC2,5)) #,
+  #feat.sum=pca_model$sae.score)
+row.names(states.pca) <- pca_model$language
 
 tree.sample.size <- 400 # set this to e.g. 20 for testing, 400+ for a full analysis
 
 if (!file.exists("trees.rData")){
-  TREEFILE <- "dollo.combined.trees" # this sample is 3600 trees, which is too long
+  TREEFILE <- "ie-v1.nex" # this sample is 10000 trees, which is much too long
   
   trees <- read.nexus(TREEFILE)
-  if (length(trees) > tree.sample.size){
-    trees <- trees[seq(1, length(trees), length.out=tree.sample.size)]
-  }
+  # drop the first half of the trees as burnin, and filter the remaining sample to a reasonable size
+  trees <- trees[seq(length(trees)/2, length(trees), length.out=tree.sample.size)]
 
   tree.list <- mclapply(trees, 
     function(tree) {
       # fix labels
       tree$tip.label <- recode(tree$tip.label, !!!namehash)
-      # normalise edge lengths (there are sometimes errors when numbers are too large)
-      tree$edge.length <- tree$edge.length / 1000
+      # scale edge lengths (there are sometimes errors when numbers are too large)
+      tree$edge.length <- tree$edge.length / 1000 
       # root on Hittite
       ladderize(root(keep.tip(tree, all.languages), "Hittite"))
       }, 
@@ -186,7 +175,7 @@ if (!file.exists("trees.rData")){
 
   class(tree.list) <- "multiPhylo"
   
-  save(tree.list, states.pca, dollo.mcc.tree, file="trees.rData")
+  save(tree.list, states.pca, mcc.tre, file="trees.rData")
 }
 ```
 
@@ -197,14 +186,13 @@ Plot these states on a map.
 
 ```{r}
 world = ne_countries(scale = "small", returnclass = "sf")
-metadata <- metadata %>% mutate(label=paste(iso.code, sae.score))
 
 ggplot(data=world) + 
   geom_sf(fill="white") +
   coord_sf(xlim = range(metadata$longitude), ylim = range(metadata$latitude)) +
-  geom_label(data=metadata, aes(x = longitude, y = latitude, label=label, colour=ancient, fill=SAE), size=3, label.padding = unit(0.15, "lines")) +
-  scale_fill_manual(values=c("lightgray","darkgray")) +
-  scale_colour_manual(values=c("black", "white")) +
+  geom_point(data=metadata, aes(x = longitude, y = latitude, shape=ancient, fill=as.factor(sae.score)), size=3, colour="black") +
+  scale_shape_manual(values=c(21,23))+
+  scale_fill_grey(start=1, end=0.2) +
   theme(legend.position = "none", axis.title.x=element_blank(), axis.title.y=element_blank())
 ```
 
@@ -213,15 +201,15 @@ ggsave("../figures/Figure_1_Map.pdf", width=5.75, height=3.75, units="in")
 ggsave("../figures/Figure_1_Map.png", width=5.75, height=3.75, units="in")
 ```
 
-
+Plot the distribution of SAE feature counts
 ```{r}
 metadata %>% 
   ggplot(aes(x=sae.score)) + 
   geom_histogram(binwidth=1) + 
   scale_x_continuous(breaks=0:9) +
-  xlab("SAE Features") + ylab("Count")
+  xlab("Number of SAE Features") + ylab("Number of languages")
 ```
-Natural breakpoint at sae.score >= 5
+There is a natural breakpoint at sae.score >= 5, which we will thus use as a threshold for membership of the SAE area. This is the same breakpoint suggested by Haspelmath 2011:1505.
 ```{r}
 ggsave("../figures/Figure_3_SAE.png", width=3, height=2)
 ggsave("../figures/Figure_3_SAE.pdf", width=3, height=2)
@@ -233,7 +221,7 @@ observed.states <- metadata %>% pull(SAE) %>% as.integer()
 names(observed.states) <- metadata %>% pull(language)
 # make.simmap rate models: "ARD" all rates different; "SYM" symmetrical; "EQ"" equal; or use matrix
 dollo.model = matrix(c(0,0,1,0), 2) # once a lineage becomes SAE it doesn't revert to non-SAE
-simmap.tre <- make.simmap(dollo.mcc.tree,
+simmap.tre <- make.simmap(mcc.tre,
   observed.states,
   model=dollo.model)
 cols <- c("black", "gray")
@@ -241,7 +229,7 @@ names(cols) <- c("0", "1")
 plotSimmap(simmap.tre, cols, fsize=0.5, pts=FALSE, lwd=4)
 ```
 
-Create all the simmaps. This can be an extremely slow process
+Create all the simmaps. This can be an extremely slow process, so the results are saved.
 ```{r include=FALSE}
 if (!file.exists("simmap.rData")){
   simmap.list <- make.simmap(tree.list, observed.states, model=dollo.model, nsim=5)
@@ -249,9 +237,8 @@ if (!file.exists("simmap.rData")){
 } else load("simmap.rData")
 ```
 
-Plot three arbitrary simmaps to show variation in tree structure (from the Bayesian phylogenetic sampline process) and simulated history
+Plot three arbitrary simmaps to show variation in tree structure (from the Bayesian phylogenetic sampling process) and simulated history
 ```{r}
-#library(ggplotify)
 opar <- par(no.readonly=TRUE)
 par(mfrow=c(1,3))
 plot.simmap.i <- function(i){
@@ -265,7 +252,7 @@ plot.simmap.i(3)
 par(opar)
 ```
 ```{r}
-pdf("../figures/Figure_4_State_Simulation.pdf", width=7, height=5.5)
+pdf("../figures/Figure_4_State_Simulation.pdf", width=7, height=4.5)
 par(mfrow=c(1,3))
 plot.simmap.i(1)
 plot.simmap.i(2)
@@ -273,16 +260,9 @@ plot.simmap.i(3)
 dev.off()
 ```
 
-
-
-Now do the `brownie.lite` test. The standard citation for this is:
-
-  O'Meara, B.C., C. Ane, M.J. Sanderson, and P.C. Wainwright. 2006. Testing for different rates of continuous trait evolution using likelihood. *Evolution* 60(5): 922-933.
-
+Now do the `brownie.lite` test (O'Meara et al. 2006). 
 
 ```{r}
-#states <- cbind(states.mds, states.pca)
-#states <- states.pca
 NTREES <- length(simmap.list) 
 results.trait.m <- matrix( # template results matrix
   nrow=NTREES,
@@ -294,12 +274,10 @@ results.trait.m <- matrix( # template results matrix
   )
 
 if (!file.exists("results.rData")){
-  #results <- list()
   process.results <- function(trait.name){
     results.trait.name <- results.trait.m
     traits <- states.pca[[trait.name]]
     names(traits) <- row.names(states.pca)
-    ## traits <- traits[simmap.list[[1]]$tip.label] 
     for (i in 1:NTREES){
       cat(paste("Trait ", trait.name, " trial ", i, "/", NTREES, "\n", sep=""))
       # check that labels are aligned
@@ -341,7 +319,8 @@ if (!file.exists("results.rData")){
 
 Get rate estimates (report in article text)
 ```{r}
-trait_labels <- c("PC1", "PC2")
+# trait_labels <- c("PC1", "PC2")
+trait_labels <- c("PC1", "PC2", "feat.sum")
 lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
   set_names(trait_labels) %>%
   bind_rows(.id="trait") %>% 
@@ -355,7 +334,9 @@ lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
 Compare AIC for one rate and two rate models
 
 ```{r}
-trait_labels <- c("PC1", "PC2")
+# trait_labels <- c("PC1", "PC2")
+trait_labels <- c("PC1", "PC2", "feat.sum")
+
 
 lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
   set_names(trait_labels) %>%
@@ -382,7 +363,7 @@ lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
   set_names(trait_labels) %>%
   bind_rows(.id="trait") %>%
   group_by(trait) %>%
-  summarise(median.delta.AIC.c=median(delta.AICc))
+  summarise(median.delta.AIC.c=median(delta.AICc), evidence.ratio=exp(0.5*median(delta.AICc)))
 ```
 
 For the two rate model, how the estimated rates of evolution of each component in the SAE and non-SAE regions of the trees.
@@ -423,12 +404,25 @@ lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
 ```
 
 ```{r}
-#fig5 <- grid_arrange_shared_legend(fig5a, fig5b, fig5c, nrow=1, position="right")
 fig5 <- grid.arrange(fig5a, fig5b, fig5c, nrow=1)
 ```
 
 ```{r}
 ggsave("../figures/Figure_5_results.png", plot=fig5, width=7, height=3)
 ggsave("../figures/Figure_5_results.pdf", plot=fig5, width=7, height=3)
+```
+
+## References
+
+  Dunn, Michael and Tresoldi, Tiago. 2021. Indo-European Lexical Data (IELex) and ‘Good Enough’ Tree. Uppsala: Uppsala universitet. Available at: https://github.com/evotext/ielex-data-and-tree ; DOI: 10.5281/zenodo.5556801
+  
+  Haspelmath, Martin. 2001. “The European Linguistic Area: Standard Average European.” Language Typology and Language Universals: An International Handbook 2: 1492–1510.
+
+  O'Meara, Brian .C., Cécile Ané, Michael J. Sanderson, and Peter C. Wainwright. 2006. Testing for different rates of continuous trait evolution using likelihood. *Evolution* 60(5): 922-933.
+
+## Session info
+
+```{r}
+sessioninfo::session_info()
 ```
 

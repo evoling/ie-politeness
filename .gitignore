@@ -11,3 +11,4 @@ analysis.nb.html
 analysis_files/
 figures/*
 !figures/README.md
+.Rproj.user
