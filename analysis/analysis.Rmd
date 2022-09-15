@@ -57,8 +57,8 @@ plot(hclust(language.distance), cex=0.5)
 Prepare metadata 
 ```{r}
 metadata <- read_tsv("language-metadata.csv")
-sae.features <- read.delim("SAE-features.csv", row.names=1, na.string="NA")
-sae.sum <- apply(sae.features, 1, sum, na.rm=TRUE)[metadata$language]
+sae.features <- read.delim("SAE-features.csv", row.names=1)
+sae.sum <- apply(sae.features, 1, sum)[metadata$language]
 metadata$sae.score <- sae.sum
 metadata$SAE <- sae.sum > 4
 metadata
