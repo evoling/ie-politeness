@@ -57,7 +57,7 @@ plot(hclust(language.distance), cex=0.5)
 Prepare metadata 
 ```{r}
 metadata <- read_tsv("language-metadata.csv")
-sae.features <- read.delim("SAE-features-83.csv", row.names=1, na.string="NA")
+sae.features <- read.delim("SAE-features.csv", row.names=1, na.string="NA")
 sae.sum <- apply(sae.features, 1, sum, na.rm=TRUE)[metadata$language]
 metadata$sae.score <- sae.sum
 metadata$SAE <- sae.sum > 4
@@ -319,8 +319,8 @@ if (!file.exists("results.rData")){
 
 Get rate estimates (report in article text)
 ```{r}
-# trait_labels <- c("PC1", "PC2")
-trait_labels <- c("PC1", "PC2", "feat.sum")
+trait_labels <- c("PC1", "PC2")
+# trait_labels <- c("PC1", "PC2", "feat.sum")
 lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
   set_names(trait_labels) %>%
   bind_rows(.id="trait") %>% 
@@ -334,8 +334,8 @@ lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
 Compare AIC for one rate and two rate models
 
 ```{r}
-# trait_labels <- c("PC1", "PC2")
-trait_labels <- c("PC1", "PC2", "feat.sum")
+trait_labels <- c("PC1", "PC2")
+# trait_labels <- c("PC1", "PC2", "feat.sum")
 
 
 lapply(trait_labels, function(d) as_tibble(results[[d]])) %>%
