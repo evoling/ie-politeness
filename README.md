@@ -6,3 +6,5 @@ Raw data is available for reference in the `data` directory. All data in the for
 
 A compiled version of the entire analysis is available to read in the file 
 [analysis.html](./analysis/analysis.html).
+
+[![DOI](https://zenodo.org/badge/537339402.svg)](https://zenodo.org/badge/latestdoi/537339402)
